@@ -1,0 +1,1794 @@
+fileFormatVersion: 2
+guid: 2987da8f5f8fe91428eb4491b68bf545
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5311524380390656859
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_0
+  - first:
+      213: 6554164194060860751
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_1
+  - first:
+      213: -2855687708582456223
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_2
+  - first:
+      213: -342185877920071524
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_3
+  - first:
+      213: -2299098148449182915
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_4
+  - first:
+      213: 7112808363417960768
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_5
+  - first:
+      213: 9187142745094457913
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_6
+  - first:
+      213: -4083350811336020191
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_7
+  - first:
+      213: 971115763622825891
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_8
+  - first:
+      213: 34924007030027700
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_9
+  - first:
+      213: -5397037821632051069
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_10
+  - first:
+      213: -5313129307815602966
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_11
+  - first:
+      213: 3681562574644283696
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_12
+  - first:
+      213: 1979504886924161511
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_13
+  - first:
+      213: -6666477255600742858
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_14
+  - first:
+      213: 31560050978294745
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_15
+  - first:
+      213: -7594339275748578020
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_16
+  - first:
+      213: -8241921702491038424
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_17
+  - first:
+      213: 8962371713839558377
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_18
+  - first:
+      213: -2836036068482035465
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_19
+  - first:
+      213: -8993480965052320918
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_20
+  - first:
+      213: 5590207213732788299
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_21
+  - first:
+      213: -9040852423570912934
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_22
+  - first:
+      213: 4851633810528270928
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_23
+  - first:
+      213: -4599465454509760033
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_24
+  - first:
+      213: -5230417302709782459
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_25
+  - first:
+      213: -8649885905873271034
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_26
+  - first:
+      213: 734251720546047113
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_27
+  - first:
+      213: 2510917761722582803
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_28
+  - first:
+      213: -8061455452631890635
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_29
+  - first:
+      213: 3544769213725286710
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_30
+  - first:
+      213: 2103877760288881462
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_31
+  - first:
+      213: 1967681336935466364
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_32
+  - first:
+      213: 7489906781456612516
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_33
+  - first:
+      213: -8845956152426896006
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_34
+  - first:
+      213: 8429845060939412664
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_35
+  - first:
+      213: -6437289027751499600
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_36
+  - first:
+      213: 852383585000736742
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_37
+  - first:
+      213: 3073092311110342600
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_38
+  - first:
+      213: -9089189045460620086
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_39
+  - first:
+      213: 170436075172826088
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_40
+  - first:
+      213: 2882888272058963712
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_41
+  - first:
+      213: -5902250489709261865
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_42
+  - first:
+      213: 7760939585140831591
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_43
+  - first:
+      213: -5071961646531622075
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_44
+  - first:
+      213: 3112769259276212846
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_45
+  - first:
+      213: 1589782891712568562
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_46
+  - first:
+      213: -2417776070336342959
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_47
+  - first:
+      213: 8535185747605216375
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_48
+  - first:
+      213: 5402193038861032689
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_49
+  - first:
+      213: -894377182139869839
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_50
+  - first:
+      213: -1448068100092068529
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_51
+  - first:
+      213: -1362586474566890150
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_52
+  - first:
+      213: -1604745217423593755
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_53
+  - first:
+      213: 8599347474485056094
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_54
+  - first:
+      213: -7945579848023437785
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_55
+  - first:
+      213: -9093010970988337242
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_56
+  - first:
+      213: -8842159058591360909
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_57
+  - first:
+      213: -191849811843329543
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_58
+  - first:
+      213: -8012870894352782256
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_59
+  - first:
+      213: 2912050236616560159
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_60
+  - first:
+      213: -64060325910579058
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_61
+  - first:
+      213: 1359813873640396361
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_62
+  - first:
+      213: 913773024063735991
+    second: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 934
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b0305484356b940800000000000000
+      internalID: 5311524380390656859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 934
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4df49aeb9115fa50800000000000000
+      internalID: 6554164194060860751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 934
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1645e7cb82f8e58d0800000000000000
+      internalID: -2855687708582456223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 934
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c904b6bc1cf404bf0800000000000000
+      internalID: -342185877920071524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 934
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b9de54a66f710e0800000000000000
+      internalID: -2299098148449182915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_5
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 934
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04184f07585c5b260800000000000000
+      internalID: 7112808363417960768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_6
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 934
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a892ea6a94f7f70800000000000000
+      internalID: 9187142745094457913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 934
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f630552160557c0800000000000000
+      internalID: -4083350811336020191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 806
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af458e44a81a7d00800000000000000
+      internalID: 971115763622825891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 806
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5782903331c7000800000000000000
+      internalID: 34924007030027700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 806
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388064a22bed915b0800000000000000
+      internalID: -5397037821632051069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 806
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae41fe17b09f346b0800000000000000
+      internalID: -5313129307815602966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 806
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0398b08e7a9871330800000000000000
+      internalID: 3681562574644283696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_13
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 806
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1b340f43d987b10800000000000000
+      internalID: 1979504886924161511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_14
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 806
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e52bca14aeb73a0800000000000000
+      internalID: -6666477255600742858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_15
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 806
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db87abf2bf107000800000000000000
+      internalID: 31560050978294745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 680
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d653d4aac7b9690800000000000000
+      internalID: -7594339275748578020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 680
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d507011efce9d80800000000000000
+      internalID: -8241921702491038424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 680
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee6a6cc69db06c70800000000000000
+      internalID: 8962371713839558377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_19
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 680
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0deefb83064a8d0800000000000000
+      internalID: -2836036068482035465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_20
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 680
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63b1d736bcb03380800000000000000
+      internalID: -8993480965052320918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_21
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 680
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b487e5bb7d7649d40800000000000000
+      internalID: 5590207213732788299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_22
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 680
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59835a0f90788280800000000000000
+      internalID: -9040852423570912934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_23
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 680
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05affc0ee37745340800000000000000
+      internalID: 4851633810528270928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 552
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1e343c98a6b20c0800000000000000
+      internalID: -4599465454509760033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_25
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 552
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5483de4dc23d967b0800000000000000
+      internalID: -5230417302709782459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 552
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60704c0099e65f780800000000000000
+      internalID: -8649885905873271034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_27
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 552
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984ddd2bc06903a00800000000000000
+      internalID: 734251720546047113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_28
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 552
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31781bf966298d220800000000000000
+      internalID: 2510917761722582803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 552
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5358d3d2af4ff1090800000000000000
+      internalID: -8061455452631890635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_30
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 552
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63126d2a1dc813130800000000000000
+      internalID: 3544769213725286710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_31
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 552
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bfcd81da9723d10800000000000000
+      internalID: 2103877760288881462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 432
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75443f20cb9e4b10800000000000000
+      internalID: 1967681336935466364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 432
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acb285d88e71f760800000000000000
+      internalID: 7489906781456612516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 432
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75e9eb4fb9dc3580800000000000000
+      internalID: -8845956152426896006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_35
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 432
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4ffd07b63dcf470800000000000000
+      internalID: 8429845060939412664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_36
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 432
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b82a584cb72aa6a0800000000000000
+      internalID: -6437289027751499600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_37
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 432
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7c75cba5644db00800000000000000
+      internalID: 852383585000736742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_38
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 432
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c757bdcc21d5aa20800000000000000
+      internalID: 3073092311110342600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_39
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 432
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acca2f048b6bcd180800000000000000
+      internalID: -9089189045460620086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 304
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb869515b28d5200800000000000000
+      internalID: 170436075172826088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_41
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 304
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007d637fb93120820800000000000000
+      internalID: 2882888272058963712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_42
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 304
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db0189737ef61ea0800000000000000
+      internalID: -5902250489709261865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_43
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 304
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7653697fe6564bb60800000000000000
+      internalID: 7760939585140831591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_44
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 304
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bc31041c5cc99b0800000000000000
+      internalID: -5071961646531622075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_45
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 304
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a1aee2627c23b20800000000000000
+      internalID: 3112769259276212846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_46
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 304
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc5582fd1b001610800000000000000
+      internalID: 1589782891712568562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_47
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 304
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15499255975527ed0800000000000000
+      internalID: -2417776070336342959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 170
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c5cf15732137670800000000000000
+      internalID: 8535185747605216375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_49
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 170
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc566162f178fa40800000000000000
+      internalID: 5402193038861032689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_50
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 170
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175965301b88693f0800000000000000
+      internalID: -894377182139869839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_51
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 170
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dff633cbd67ebe0800000000000000
+      internalID: -1448068100092068529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_52
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 170
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d40b712de171de0800000000000000
+      internalID: -1362586474566890150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_53
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 170
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eea5702abccab9e0800000000000000
+      internalID: -1604745217423593755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_54
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 170
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5295dc77f4075770800000000000000
+      internalID: 8599347474485056094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_55
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 170
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e8f08c931abb190800000000000000
+      internalID: -7945579848023437785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_56
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 42
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7a28fd2b22fc180800000000000000
+      internalID: -9093010970988337242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_57
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 42
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378d8291f275a4580800000000000000
+      internalID: -8842159058591360909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_58
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 42
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f15ad2dc99665df0800000000000000
+      internalID: -191849811843329543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_59
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 42
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c290720609cc090800000000000000
+      internalID: -8012870894352782256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_60
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 42
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e4f91f24ea96820800000000000000
+      internalID: 2912050236616560159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_61
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 42
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8877e519796c1ff0800000000000000
+      internalID: -64060325910579058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_62
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 42
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946dbf273870fd210800000000000000
+      internalID: 1359813873640396361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_63
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 42
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b847a859bf5eac00800000000000000
+      internalID: 913773024063735991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_0: 5311524380390656859
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_1: 6554164194060860751
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_10: -5397037821632051069
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_11: -5313129307815602966
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_12: 3681562574644283696
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_13: 1979504886924161511
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_14: -6666477255600742858
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_15: 31560050978294745
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_16: -7594339275748578020
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_17: -8241921702491038424
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_18: 8962371713839558377
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_19: -2836036068482035465
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_2: -2855687708582456223
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_20: -8993480965052320918
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_21: 5590207213732788299
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_22: -9040852423570912934
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_23: 4851633810528270928
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_24: -4599465454509760033
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_25: -5230417302709782459
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_26: -8649885905873271034
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_27: 734251720546047113
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_28: 2510917761722582803
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_29: -8061455452631890635
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_3: -342185877920071524
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_30: 3544769213725286710
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_31: 2103877760288881462
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_32: 1967681336935466364
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_33: 7489906781456612516
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_34: -8845956152426896006
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_35: 8429845060939412664
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_36: -6437289027751499600
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_37: 852383585000736742
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_38: 3073092311110342600
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_39: -9089189045460620086
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_4: -2299098148449182915
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_40: 170436075172826088
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_41: 2882888272058963712
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_42: -5902250489709261865
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_43: 7760939585140831591
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_44: -5071961646531622075
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_45: 3112769259276212846
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_46: 1589782891712568562
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_47: -2417776070336342959
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_48: 8535185747605216375
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_49: 5402193038861032689
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_5: 7112808363417960768
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_50: -894377182139869839
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_51: -1448068100092068529
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_52: -1362586474566890150
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_53: -1604745217423593755
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_54: 8599347474485056094
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_55: -7945579848023437785
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_56: -9093010970988337242
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_57: -8842159058591360909
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_58: -191849811843329543
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_59: -8012870894352782256
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_6: 9187142745094457913
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_60: 2912050236616560159
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_61: -64060325910579058
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_62: 1359813873640396361
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_63: 913773024063735991
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_7: -4083350811336020191
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_8: 971115763622825891
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Sanae_9: 34924007030027700
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
