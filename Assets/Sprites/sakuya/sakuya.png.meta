@@ -1,0 +1,5412 @@
+fileFormatVersion: 2
+guid: f495062f1bc95b2459d043e7b451f257
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3035659534344684837
+    second: sakuya_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sakuya_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2175
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda7b54bcbb2fd5d0800000000000000
+      internalID: -3035659534344684837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2175
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9163e934e99624b9241f1e5ad0ed64
+      internalID: 266765678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2175
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ca515ba6e0d8c4681a8541b96aadb1
+      internalID: -142958734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2175
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1034ef472b00344bae9a8058733422
+      internalID: 315997200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2175
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1aa72ccc373e24f960489de48eadf0
+      internalID: -1478986269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2175
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465660d79039f834888ab7373ffa5059
+      internalID: -273644082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_6
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2261
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d6cfed60a7c4c44b3843ca32154a45
+      internalID: 1271160199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_7
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2261
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb5e4266feb51844bb0e54c35d58e44
+      internalID: -242200095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_8
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2240
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1576d1c27729448a3edfc340de120b
+      internalID: -1609891250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_9
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2240
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3bd55156621f242a50fbc94b906938
+      internalID: 705875015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2163
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2c363b367265445b93aab383e7a802
+      internalID: -268325218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2052
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451a378c0500af74c9dea13b99750f25
+      internalID: 1973279009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2052
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693e81e03cf572b43b51684dc65649ca
+      internalID: 22381166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2052
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8540f65702216e42b54c488d4b24a6f
+      internalID: 402263385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2052
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47091cca5e54f7489b2f0b2f2c3ad8d
+      internalID: -1177342762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2052
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd5b9e9d1033b4fb1d920281b8c645
+      internalID: -2141725813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2052
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8532d31a40c7341b9caf4ff26773cc
+      internalID: -619370564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_17
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2052
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e57906078225864081e754a03db6219
+      internalID: -1926336182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_18
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2052
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d622ad89f3f4b46bb6252192f6a1ed
+      internalID: -22522130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2041
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d531ba823eaf5f84a81ae2bc062c13c9
+      internalID: -1792888872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2041
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b3d8e90158e5146a941c4a13a6d69e
+      internalID: 297700182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_21
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2041
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c352a619bc88afa4285c8077c157d17a
+      internalID: -2062088999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_22
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 2041
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039311c780c81b54bbcf2139e0913d6d
+      internalID: -704820023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1929
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace021515cb17354e9ec136471b636bc
+      internalID: 871504790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_24
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1929
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aed578470c0a914fab2455967ca311a
+      internalID: -1065976398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1929
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f74c8d942737814986185ad116d4cb3
+      internalID: 1780420772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1929
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a045ffa88094b742a772ee02f8a5826
+      internalID: -299603603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1929
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fa01b3d6fa0534b802202d1cd2b855
+      internalID: 179923741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1929
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1398b9da4fd67054c831b17847b7b6c0
+      internalID: 2096220113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1929
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6a62019806645468917ce58cdff3aa
+      internalID: -391239508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_30
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1929
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b3a1fc026ef749be7626a000175f9
+      internalID: -1845487473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_31
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1929
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa5766f916fd5742ae1cee75b1bef6e
+      internalID: 798407494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_32
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1930
+        width: 43
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79e8b80d533bf24ab968a2be750a2d1
+      internalID: -72303105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1930
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982c9c7b5c1406e44aa876846d919e00
+      internalID: -262930798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_34
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1930
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e8f912a584aad48a03df8646471cdf
+      internalID: 2075326396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_35
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1930
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44106571d8050ec4da27e1b27edecf1c
+      internalID: -930774769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_36
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1930
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2676859f03682438959022159366e4
+      internalID: -1621047481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_37
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1930
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408f208ca3e72f438f0b6bee311c3f9
+      internalID: 1613279126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_38
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1930
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ff08bb8cf4214eb1ca04ce1008c6f
+      internalID: -1943795393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_39
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1930
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90498a67ae5f8934ea228ce6f3a95c5b
+      internalID: -1579759322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_40
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1930
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4104ab5fbf8824eb2485c9fe8929d7
+      internalID: 685342789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1917
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ec4967da4eb424b80e38df474caf32
+      internalID: -485056881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1917
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab7f1c3b1a63e4499389e3cbaaeee4e
+      internalID: -830959044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1806
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb9602a7cbbaf341935f5dda1c18bc8
+      internalID: 2009866456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1806
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158c75ff7d1af604ba7ad7a330ca7c71
+      internalID: 650675158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1806
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8fbbf9315b006489b92e9208729044
+      internalID: 455207590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_46
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1806
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed2fa48b1f98794f93f1147baeb1056
+      internalID: 1966847961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_47
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1806
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b317aaaae85ae94cbc0a5641ba8558d
+      internalID: -843581785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_48
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1806
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5334bd231f50a6143b91c2a567bfa363
+      internalID: -1800858335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_49
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1806
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4cab428e52b324b830dd877c2b74b7
+      internalID: -1974868221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_50
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1806
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451d56aaa5622de4fad72c05c5fd67f9
+      internalID: -213644599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_51
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1806
+        width: 44
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160f033ce7455f64aa79eb4712a8d5ed
+      internalID: 159034520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1795
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be03ccfe69ad3f84ea1f8ec13a7c2daa
+      internalID: -730807508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_53
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1795
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278cf9389b4606046affda78e2446128
+      internalID: 715556499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1795
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2662eb174bfea20449bd946e2ec26917
+      internalID: 476186648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1684
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37cb68f6dc83af4db53011b841c7496
+      internalID: 647501213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1684
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961e17b1a6d5bab43ad6407820bd4242
+      internalID: 1499515218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1684
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40687e1612ca8a44aaf9f307c1ffe294
+      internalID: -201545373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_58
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1684
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f2273109eb88542ba5be2e9d23c03b
+      internalID: 643809734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_59
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1684
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed3845f51a81354e843721548cbbe3a
+      internalID: -714248753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1684
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7246515de0ddb45a9384eebcfeb0df
+      internalID: -1514086674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_61
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1684
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9385d60c6d346424b8786070ef50f6a3
+      internalID: 39501714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_62
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1684
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f813a3337fc694faca65bbdc432a0a
+      internalID: 726868909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1670
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3f2428fa6744d4eb7d9748cfd1c8f3
+      internalID: -1366103334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_64
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1671
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0760fa4764a704e4ead8a5971378095f
+      internalID: -70280543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_65
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1671
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede62d0a1731b0f40a203e443c737aad
+      internalID: 1408376748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_66
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1671
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e728b79bbf9cb9a46bb5057bfea00a5a
+      internalID: -1570408468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_67
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1671
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51f2886608cc404e809785572089355
+      internalID: -1478917979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1560
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7630da3ca64e98b4e8e2b93838071ad5
+      internalID: 347702132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_69
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1560
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646c06503845c8c4d813bbbf53533b99
+      internalID: 1967663201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1560
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b76e0741446aac4f835238e675859be
+      internalID: -674094779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_71
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1560
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aa5b416bbc725429008bf1e01fbec5
+      internalID: 1365197268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_72
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1560
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8f93c656507c746a6cfdee33fd3ea8
+      internalID: -564816993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_73
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1560
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326258bb726e14e4caa93097ab6ed381
+      internalID: -1111081114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_74
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1560
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339f52cf9d35cf34d8baa54ca4dda296
+      internalID: 1773617013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_75
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1560
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6ae37473ef2af4b84c1b7950e02487
+      internalID: 523331722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_76
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1560
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b65cb199db0a649a707e9d0db487fe
+      internalID: 1826767523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_77
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1560
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586df301c076e7c4785f0e092cb98c1c
+      internalID: -111701036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_78
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1560
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacd0d5fb5076b744bb94a202d4756fa
+      internalID: -565347052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_79
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1560
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9475884c27a076458e1421ee2bbc5b1
+      internalID: 1675844821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1546
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99c7d569efea004588d8372b89ccd12
+      internalID: 971623898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_81
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1546
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4fcfd80ce2f9144b33ff5eb92466ea
+      internalID: 193461682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_82
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1548
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0caa86ffa73e3e408700563b0e340ea
+      internalID: 1992663037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_83
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1437
+        width: 45
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4a5066842f11e49bc6e3025d427802
+      internalID: 176841595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_84
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1437
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222492b2c76e0e542bdd316f9f5b3dd8
+      internalID: -876665739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_85
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1437
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4585a420075bfe4abe8288701992cc2
+      internalID: 1059107177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_86
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1437
+        width: 43
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09653693234426b428b4616dce84401e
+      internalID: 1735003636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_87
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1437
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abb31b20df4eeb4a8350420b28fa6a7
+      internalID: -437006586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_88
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1437
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad1aae84e4208845a778fa2c94c1eec
+      internalID: -1388088372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_89
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1437
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb9a595885c08a45b0cd247fed97ad0
+      internalID: -1199680168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_90
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1437
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eefedb356d2c94592f116f1cb0fd4c
+      internalID: 1292400578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_91
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1437
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc9dce65a13dcf43bb4a94f23cf0cb6
+      internalID: 1093983425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_92
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1437
+        width: 68
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318aec8bb81d1bd41934fd5b2bde8f3d
+      internalID: 564643979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_93
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1437
+        width: 68
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4723ebb40db0a242866778cc63cf5c3
+      internalID: 1783560560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_94
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1437
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8f3f5ff91fad848bd4c039ed2a967b
+      internalID: 997148083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_95
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1424
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90595c3ea44291243b8e05ac9324466a
+      internalID: 767840953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_96
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1426
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfbc0b0494525748bc4d12fe219e825
+      internalID: 91983182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_97
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1314
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fa725fba021e245bf87604de86853a
+      internalID: 1656116965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_98
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1314
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de9317c1a8bcaa47a86d55f25d14db9
+      internalID: -12400585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_99
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1314
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632cc19613b66a54082e0690ac80abd6
+      internalID: 1521407021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_100
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1314
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8f852a06e1b45448e46f20fc9390a0
+      internalID: -1758330050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_101
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1314
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1192d8c0446cacf419c176e3694104a5
+      internalID: -358241838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_102
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1314
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d82f6dd07867f34ebbace91171689bc
+      internalID: -1496589326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_103
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1314
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b90c73f1a80a84cb5a35f53d7a8991
+      internalID: -1493241192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_104
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1314
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb17dda766632cb41b608d5388f7d304
+      internalID: -931821249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_105
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1314
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fabdf3353b80d4b98fd15d72c1756f
+      internalID: -1891271571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_106
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1314
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71fa01cf3d80224e8b0f288ba730c5a
+      internalID: -1092859135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_107
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1314
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdad6d978d5921f49bca688289f7abf9
+      internalID: 39208614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1303
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bb1dc047288094798c35319ee30e02
+      internalID: 508578108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_109
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1303
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999a31e590ed563458a52832bc340b87
+      internalID: -1535931698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1191
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f0cff3c30d7e48bcca7dfe65ab704
+      internalID: -1173271479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_111
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1191
+        width: 48
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509f47d57eb00544b8aa91959d639c52
+      internalID: 972986744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_112
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1191
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48c1d5591d261f4588327178de47f7d
+      internalID: 1097106924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_113
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1191
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67494828b9c4cb841a5cfb4b5f331683
+      internalID: -226205451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_114
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1191
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5c578d2ac890745bde7d7865af1ac2
+      internalID: 1808981430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_115
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1191
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eef9dfe809f414385b531e6a78f9ef
+      internalID: -2023888063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1180
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4a01b8d6e4fb148a563b5186fd3036
+      internalID: 1326766543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_117
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1180
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c359d11c99470142906425b96a745e6
+      internalID: -1692843232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_118
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1068
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cea714a861e4d4aab79e676f88d49a
+      internalID: 1840537963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_119
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1068
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857607968c54a1649a8a51319d5674df
+      internalID: 1329884636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_120
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1068
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6f7cb5a9c29d540b2c160eeabb82ee
+      internalID: -2068246245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_121
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1068
+        width: 115
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40f421de9bd584abcde194678c4d5a
+      internalID: 828126493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_122
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1068
+        width: 114
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6010309931a76e74784234b08a7f08db
+      internalID: 16800014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_123
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1068
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0533d291978c349bba65d9f00e3b1f
+      internalID: 1703223781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_124
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1068
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4935b42ed0e9a6a4bad9a93a869d0e0f
+      internalID: 783709742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_125
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1068
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7de6f5fd4c633d4c9ee85fa41b255cf
+      internalID: -1034971860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_126
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1068
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bb0c8c2d75bf5459805852fb02ddcb
+      internalID: 1012163754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_127
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1057
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c98a0c46bc87042a1634facf636086
+      internalID: 1293135721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_128
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1057
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18020aaf7e053184b86ae8e1dae0eb4b
+      internalID: -483444616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_129
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 946
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b786ec6ebe350d4b94b7c81b1616b25
+      internalID: 1610085930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_130
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 946
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f14d8d1c1159f4593d48d0aa2e6693
+      internalID: 1012028074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_131
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 946
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e3aa5caa7e9d744945fa8af815405d
+      internalID: -1121678828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_132
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 946
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e0f196584e5454b96b071287f89a9c
+      internalID: 824111863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_133
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 946
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84085f6e941d11b45814e4f08fe67b25
+      internalID: 1686857392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_134
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 946
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a51640b86f7374ab5d0137e8b874b1
+      internalID: 1253584699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_135
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 946
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7a18d22fc80ed4fbaaf019e6573909
+      internalID: -1733894421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_136
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 946
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3f0bdd2c580e24aa4f5a89dc818833
+      internalID: 854862502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_137
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 946
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87025aff2f2627d4493d9a7fee6e2e71
+      internalID: -524323568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_138
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 933
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782bdb36320290b49a09b862717b4dd7
+      internalID: -291942294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_139
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 933
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc79455f241320499e4b1b7423f2f70
+      internalID: -2141300061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_140
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 822
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5142617f83b93484b9363f5189f927f9
+      internalID: -1439104594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_141
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 822
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd50ed6e98e719046b62a2c72fd12490
+      internalID: -164434407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_142
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 822
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdb4e187d18e0045b2fe9fd1099dc48
+      internalID: -910706701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_143
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 822
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d22075c0d8c854c8dcadbeee824805
+      internalID: -1200570145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_144
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 822
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675ef9bae36387c498fe15b83e3c6399
+      internalID: -835365418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_145
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 822
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3fd2e21e23b494783809c615b93d79
+      internalID: -1360889383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_146
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 822
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4559217c7e6c24eb47cc5b326c0cd2
+      internalID: -384617570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_147
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 822
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f36cbe1e7a3684cafaa0db49da3ba0
+      internalID: -753748054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_148
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 822
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f430411a1ba87c742b6cc315077fd62b
+      internalID: -580239448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_149
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 822
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c329881339d9f8429214ad8df42a1d4
+      internalID: 1399916101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_150
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 810
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d925748982f21d2498ffd19370fa849c
+      internalID: 1927354371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_151
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 810
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dda67f9907e9f43aafe2f6c4eeab9b
+      internalID: 473602045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_152
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 699
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9053b9fecd3d44d4080ef5bd724ddb3f
+      internalID: 1783430326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_153
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 699
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b4815cbf695844e8ce157df6cb39a1
+      internalID: -33661858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_154
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 699
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3e3bd682958ab4d84bb99e2682e72c
+      internalID: 482900835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_155
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 699
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53122c7c0b3810a4ebb2a6831910c5d6
+      internalID: 2097301766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_156
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 699
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5bc89834915db439187d89d9872f6b
+      internalID: -917755897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_157
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 699
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c94bff0815a59c489bdcb1d34fd6ff9
+      internalID: -2098247330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_158
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 699
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc64b9c8193ced4e918cfa7fd7e462a
+      internalID: -203538338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_159
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 699
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280f0fa8f36e5d84f91f3365f68c0ce9
+      internalID: -1420230135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_160
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 686
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae311a304d3d1e84cb006afe2ef716d1
+      internalID: -93666312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_161
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 686
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7392d1d7a6f2bb41885b7b86a4c5002
+      internalID: 230925891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_162
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 575
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a24550d53852e046ad1ff06915822b2
+      internalID: -466347720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_163
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 576
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb059d419202274c82ba1fca1eac4cc
+      internalID: -1070007538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_164
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 576
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0952f89971321184ea3c526d8f4899fb
+      internalID: -522366391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_165
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 576
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f0cf80571f3c4469600f00af0eeafa
+      internalID: -1186081873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_166
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 576
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbb4c3fbf6e3a449af25f27281e6bb4
+      internalID: 1597951500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_167
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 576
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3935fbbad2dfd41931ddbaf37726f7
+      internalID: 1989321471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_168
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 576
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479f82f7078619341a96c04cf717bf23
+      internalID: 2081731614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_169
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 576
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de05b9c1fb8a36e40ae961dfe95cc57b
+      internalID: 1234373400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_170
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 576
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bcb570dfc0baa4d873b8dae9e9cdba
+      internalID: -2003438104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_171
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 576
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c4f434d749238488100e67c99fae0f
+      internalID: 20396868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_172
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350af296bdee51446b901845e80e5cb1
+      internalID: -138846772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_173
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 563
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9489b334f95e38d4e9a74ec8f987ba07
+      internalID: 616520339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_174
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 563
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be626d37a8358a4c8c4e6dce2d77469
+      internalID: -308060497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_175
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 453
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2a326f7cb0e3749bd6503157ea606e
+      internalID: 1905336494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_176
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 533
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c1e7ca5e36d6d459bab85dbff9ff98
+      internalID: -1509107166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_177
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 453
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dc46a2dfb5852409ab1ed04e987ae7
+      internalID: -1788770329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_178
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 453
+        width: 121
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675c41aabf1da31468a8a55c80f3bf1f
+      internalID: -2146492909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_179
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 453
+        width: 103
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e869374e7e82c45850b6ff901432cc
+      internalID: 399665440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_180
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 453
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27fb0aac72e3444687c0ac1324cbcca
+      internalID: -183992142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_181
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 453
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bf658d04dd0fa4fbd74859fbbfacdc
+      internalID: -229428364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_182
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 453
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4848fe0d86e6234a8ce0dff9a256e09
+      internalID: -701082439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_183
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 442
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead458079891cdf4b96f9088afa9462e
+      internalID: -1313018670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_184
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 442
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd1220a65c626f45b379674ba4942ea
+      internalID: 559482924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_185
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 331
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09948eea08072834ea02c673b69b0717
+      internalID: 1210050381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_186
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 331
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb41aceb23280d49826861d88cbf21b
+      internalID: -1444066079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_187
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 331
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c5976d6b28ebd458e65de5ee272a07
+      internalID: -1990566798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_188
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 331
+        width: 66
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a95f6653f5a644ca3b69bd861882c5
+      internalID: -173691246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_189
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 406
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e8a29aeb8aee743932a2e90a7d1b7b
+      internalID: -1352362668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_190
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 331
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9827bcb191f9f4c88bb3ab1488a127
+      internalID: 1855866950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_191
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 410
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f596044ccccc3d4caff6b8e4610bd2c
+      internalID: -923803894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_192
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 367
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bb5a76151dc364b88ce8616d46c46c
+      internalID: 137548322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_193
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 331
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56917e912c22569428e53d363d7a75c8
+      internalID: -2097157614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_194
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 331
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e251c681415e749b18d59de9d0742e
+      internalID: 1409976320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_195
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 335
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb67ae4702c9e2f4f8c30f28ec6ae42c
+      internalID: 612033795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_196
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 309
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efea7f842f64644ebc9f3defe3e391f
+      internalID: -27321319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_197
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 306
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed8a20ac64dcec4f89d4bcba9643978
+      internalID: 663307269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_198
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 169
+        width: 124
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6970d96010937a048b7d8735ca24fc12
+      internalID: 1620276995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_199
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 284
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2df00010b97e7a4b8daf0fd42df7071
+      internalID: -1845781646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_200
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 266
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b366ece792bdd84d9775c9944d241b6
+      internalID: 1661270480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_201
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 266
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a657be2b6fbfe4b88fd5f0c677341f
+      internalID: -1943934807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_202
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 271
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c4d9c0c8606c64199f02f4fdca9ee9
+      internalID: -618791457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_203
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 249
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1699c21a8a1a0f4ba19bb2b35de9d67
+      internalID: -1175454651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_204
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 228
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a741089ab17884e946bf2a6c9cf6d2
+      internalID: -372079799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_205
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 155
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b61fbd101daf354ea03e05f88ad6b51
+      internalID: -1694419341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_206
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 155
+        width: 107
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65712750c84744b418b168f794e2f289
+      internalID: -1882041626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_207
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 240
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429ebfe2947cf134fa726da06a4026f7
+      internalID: -1252398984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_208
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 155
+        width: 95
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1da0b265e896544a07d4fccd9ac71a
+      internalID: 927085069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_209
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 155
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb66eb54f495f54faae63b4a4db5e6d
+      internalID: -351442368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_210
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 155
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c83780242b60df4fa80db6e9390c293
+      internalID: -94385140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_211
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 164
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a2e3859b5fbad49b60c78cbd4fbb26
+      internalID: -342990002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_212
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 213
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3652f3aa6e58ea245836f30da1815a8c
+      internalID: 262754770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_213
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 155
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62756781d1acc94ba008610be0aecb4
+      internalID: -1341442585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_214
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 183
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43af043229073b344b61a3e0ce7e73ef
+      internalID: 845740398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_215
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 160
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11370a6d1406f434d94d696dc88196bb
+      internalID: 154679601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_216
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 155
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fefdf8527331b49bf3f9af9551e940
+      internalID: -2089980259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_217
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47941466367283a4e9e590631db2853e
+      internalID: 1459427408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_218
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 118
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74edc76a5c7be734984c32541d7d9cd3
+      internalID: -574023726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_219
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 7
+        width: 119
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b711abad85a784ab04c4d6177d56d1
+      internalID: -2119537785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_220
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 18
+        width: 121
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f97e118a31d3cb4cac14a9bbb791876
+      internalID: -944137040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_221
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb982604e176124e9605a13f4a8ec23
+      internalID: 1782004750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_222
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 7
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd1f8e265175af4f9f7d32f7347eee4
+      internalID: -559632112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_223
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 7
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3532eb3b18d594cb3c99fcf7704ad2
+      internalID: 1595821379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_224
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 68
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9e947eda017b44ab0af0096f390bfb
+      internalID: -402871597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_225
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 7
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c26202b27c217439048f76f276705f
+      internalID: -93313461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_226
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 7
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d2f49bc82f4c64fa33fcc09e041a64
+      internalID: -1371160880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_227
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 7
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabd448ff9ca0824b94fcd01078953c9
+      internalID: 2097631899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_228
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d012d6e0c195eb40bf64fbaf9bccfa4
+      internalID: -51356875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakuya_229
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 8
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d732ca729ae316e49bd5d3af597e9f8e
+      internalID: -226284448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7bc92036b8e308e429e6cb6a917f5069
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sakuya_0: -3035659534344684837
+      sakuya_1: 266765678
+      sakuya_10: -268325218
+      sakuya_100: -1758330050
+      sakuya_101: -358241838
+      sakuya_102: -1496589326
+      sakuya_103: -1493241192
+      sakuya_104: -931821249
+      sakuya_105: -1891271571
+      sakuya_106: -1092859135
+      sakuya_107: 39208614
+      sakuya_108: 508578108
+      sakuya_109: -1535931698
+      sakuya_11: 1973279009
+      sakuya_110: -1173271479
+      sakuya_111: 972986744
+      sakuya_112: 1097106924
+      sakuya_113: -226205451
+      sakuya_114: 1808981430
+      sakuya_115: -2023888063
+      sakuya_116: 1326766543
+      sakuya_117: -1692843232
+      sakuya_118: 1840537963
+      sakuya_119: 1329884636
+      sakuya_12: 22381166
+      sakuya_120: -2068246245
+      sakuya_121: 828126493
+      sakuya_122: 16800014
+      sakuya_123: 1703223781
+      sakuya_124: 783709742
+      sakuya_125: -1034971860
+      sakuya_126: 1012163754
+      sakuya_127: 1293135721
+      sakuya_128: -483444616
+      sakuya_129: 1610085930
+      sakuya_13: 402263385
+      sakuya_130: 1012028074
+      sakuya_131: -1121678828
+      sakuya_132: 824111863
+      sakuya_133: 1686857392
+      sakuya_134: 1253584699
+      sakuya_135: -1733894421
+      sakuya_136: 854862502
+      sakuya_137: -524323568
+      sakuya_138: -291942294
+      sakuya_139: -2141300061
+      sakuya_14: -1177342762
+      sakuya_140: -1439104594
+      sakuya_141: -164434407
+      sakuya_142: -910706701
+      sakuya_143: -1200570145
+      sakuya_144: -835365418
+      sakuya_145: -1360889383
+      sakuya_146: -384617570
+      sakuya_147: -753748054
+      sakuya_148: -580239448
+      sakuya_149: 1399916101
+      sakuya_15: -2141725813
+      sakuya_150: 1927354371
+      sakuya_151: 473602045
+      sakuya_152: 1783430326
+      sakuya_153: -33661858
+      sakuya_154: 482900835
+      sakuya_155: 2097301766
+      sakuya_156: -917755897
+      sakuya_157: -2098247330
+      sakuya_158: -203538338
+      sakuya_159: -1420230135
+      sakuya_16: -619370564
+      sakuya_160: -93666312
+      sakuya_161: 230925891
+      sakuya_162: -466347720
+      sakuya_163: -1070007538
+      sakuya_164: -522366391
+      sakuya_165: -1186081873
+      sakuya_166: 1597951500
+      sakuya_167: 1989321471
+      sakuya_168: 2081731614
+      sakuya_169: 1234373400
+      sakuya_17: -1926336182
+      sakuya_170: -2003438104
+      sakuya_171: 20396868
+      sakuya_172: -138846772
+      sakuya_173: 616520339
+      sakuya_174: -308060497
+      sakuya_175: 1905336494
+      sakuya_176: -1509107166
+      sakuya_177: -1788770329
+      sakuya_178: -2146492909
+      sakuya_179: 399665440
+      sakuya_18: -22522130
+      sakuya_180: -183992142
+      sakuya_181: -229428364
+      sakuya_182: -701082439
+      sakuya_183: -1313018670
+      sakuya_184: 559482924
+      sakuya_185: 1210050381
+      sakuya_186: -1444066079
+      sakuya_187: -1990566798
+      sakuya_188: -173691246
+      sakuya_189: -1352362668
+      sakuya_19: -1792888872
+      sakuya_190: 1855866950
+      sakuya_191: -923803894
+      sakuya_192: 137548322
+      sakuya_193: -2097157614
+      sakuya_194: 1409976320
+      sakuya_195: 612033795
+      sakuya_196: -27321319
+      sakuya_197: 663307269
+      sakuya_198: 1620276995
+      sakuya_199: -1845781646
+      sakuya_2: -142958734
+      sakuya_20: 297700182
+      sakuya_200: 1661270480
+      sakuya_201: -1943934807
+      sakuya_202: -618791457
+      sakuya_203: -1175454651
+      sakuya_204: -372079799
+      sakuya_205: -1694419341
+      sakuya_206: -1882041626
+      sakuya_207: -1252398984
+      sakuya_208: 927085069
+      sakuya_209: -351442368
+      sakuya_21: -2062088999
+      sakuya_210: -94385140
+      sakuya_211: -342990002
+      sakuya_212: 262754770
+      sakuya_213: -1341442585
+      sakuya_214: 845740398
+      sakuya_215: 154679601
+      sakuya_216: -2089980259
+      sakuya_217: 1459427408
+      sakuya_218: -574023726
+      sakuya_219: -2119537785
+      sakuya_22: -704820023
+      sakuya_220: -944137040
+      sakuya_221: 1782004750
+      sakuya_222: -559632112
+      sakuya_223: 1595821379
+      sakuya_224: -402871597
+      sakuya_225: -93313461
+      sakuya_226: -1371160880
+      sakuya_227: 2097631899
+      sakuya_228: -51356875
+      sakuya_229: -226284448
+      sakuya_23: 871504790
+      sakuya_24: -1065976398
+      sakuya_25: 1780420772
+      sakuya_26: -299603603
+      sakuya_27: 179923741
+      sakuya_28: 2096220113
+      sakuya_29: -391239508
+      sakuya_3: 315997200
+      sakuya_30: -1845487473
+      sakuya_31: 798407494
+      sakuya_32: -72303105
+      sakuya_33: -262930798
+      sakuya_34: 2075326396
+      sakuya_35: -930774769
+      sakuya_36: -1621047481
+      sakuya_37: 1613279126
+      sakuya_38: -1943795393
+      sakuya_39: -1579759322
+      sakuya_4: -1478986269
+      sakuya_40: 685342789
+      sakuya_41: -485056881
+      sakuya_42: -830959044
+      sakuya_43: 2009866456
+      sakuya_44: 650675158
+      sakuya_45: 455207590
+      sakuya_46: 1966847961
+      sakuya_47: -843581785
+      sakuya_48: -1800858335
+      sakuya_49: -1974868221
+      sakuya_5: -273644082
+      sakuya_50: -213644599
+      sakuya_51: 159034520
+      sakuya_52: -730807508
+      sakuya_53: 715556499
+      sakuya_54: 476186648
+      sakuya_55: 647501213
+      sakuya_56: 1499515218
+      sakuya_57: -201545373
+      sakuya_58: 643809734
+      sakuya_59: -714248753
+      sakuya_6: 1271160199
+      sakuya_60: -1514086674
+      sakuya_61: 39501714
+      sakuya_62: 726868909
+      sakuya_63: -1366103334
+      sakuya_64: -70280543
+      sakuya_65: 1408376748
+      sakuya_66: -1570408468
+      sakuya_67: -1478917979
+      sakuya_68: 347702132
+      sakuya_69: 1967663201
+      sakuya_7: -242200095
+      sakuya_70: -674094779
+      sakuya_71: 1365197268
+      sakuya_72: -564816993
+      sakuya_73: -1111081114
+      sakuya_74: 1773617013
+      sakuya_75: 523331722
+      sakuya_76: 1826767523
+      sakuya_77: -111701036
+      sakuya_78: -565347052
+      sakuya_79: 1675844821
+      sakuya_8: -1609891250
+      sakuya_80: 971623898
+      sakuya_81: 193461682
+      sakuya_82: 1992663037
+      sakuya_83: 176841595
+      sakuya_84: -876665739
+      sakuya_85: 1059107177
+      sakuya_86: 1735003636
+      sakuya_87: -437006586
+      sakuya_88: -1388088372
+      sakuya_89: -1199680168
+      sakuya_9: 705875015
+      sakuya_90: 1292400578
+      sakuya_91: 1093983425
+      sakuya_92: 564643979
+      sakuya_93: 1783560560
+      sakuya_94: 997148083
+      sakuya_95: 767840953
+      sakuya_96: 91983182
+      sakuya_97: 1656116965
+      sakuya_98: -12400585
+      sakuya_99: 1521407021
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

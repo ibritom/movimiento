@@ -5,14 +5,15 @@ TagManager:
   serializedVersion: 3
   tags:
   - floor
+  - DeathPlane
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Fighters
   - Water
   - UI
-  - 
+  - DeathPlane
   - 
   - 
   - 

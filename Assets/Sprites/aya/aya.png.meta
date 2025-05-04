@@ -1,0 +1,4287 @@
+fileFormatVersion: 2
+guid: 69b7741236cc3d542a92ed7a3a977a48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7170808438225160291
+    second: aya_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aya_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1331
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97373fc7bb2c7c90800000000000000
+      internalID: -7170808438225160291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1331
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08358ce515cc3724db0a441eae18ed1e
+      internalID: 786097354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1331
+        width: 52
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af033ff14d76854cb9e6e05304e31a0
+      internalID: -555031728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1331
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd970b1509658a5488662b23d922929f
+      internalID: 344386386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1331
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6411d3e879437f74e86cb7ec335386eb
+      internalID: 1259498620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1331
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6760295d7813cad4b9dcba1b217f2872
+      internalID: -1230865868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_6
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1331
+        width: 52
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a39570be8686949a3b78f097bcdaa2
+      internalID: -209910785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1331
+        width: 52
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433bff3560551684189b52192be5eeb8
+      internalID: -934677683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1331
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af1f1a84fe652448a37faef8450e902
+      internalID: -621096690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1331
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ad53a51ea3d7041a3efaa231d5f492
+      internalID: -892846690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_10
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1331
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d193b97d4c782a44284464c5a8d36d5c
+      internalID: 1520319573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_11
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1331
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c71d249cb87df4d89946869d1531f2
+      internalID: -339680278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_12
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1331
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b550f875a3178034689bd832d1a06f11
+      internalID: 1617968422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_13
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1331
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88245f0b8f9cfe747b5946dc62eab661
+      internalID: 380040605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_14
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1331
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5a3b44317a4694cb5428d3a667aa06
+      internalID: -1064406173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_15
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1331
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb48dd16d2878341aef2a768e75a756
+      internalID: -1610123909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1319
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f951076020689d34ab75b9596097a91a
+      internalID: -1836193603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1319
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8ac5ed414aae849ad2e1a960869e68
+      internalID: 2054593532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1319
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9ead591a542174f82ec787cb7664bd
+      internalID: 854285199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1317
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9424ea9ff53633c42aad815e0c4b6088
+      internalID: 461902592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1319
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df06f0feaffdce4aa27bb58b1ab58f5
+      internalID: -1417344126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1319
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b77a405c71bf5444bcdd17d770127bd
+      internalID: -65067881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1319
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32133d24a9634424fb775a7b1fae4a14
+      internalID: 1602552767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1319
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13dc56b59005e549a96fe866371723c
+      internalID: 1115517543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1319
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a082c673159004bac97ab99e74f004
+      internalID: -1066706499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1319
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878c8a5c0fbe319439a1ba7e9e4ac783
+      internalID: 2033762294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1319
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9a27f5182964b4f98ad33d60b04f18
+      internalID: -1333591770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1317
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d465c5e7c9c0342835e9e79921d667
+      internalID: -1184862017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1185
+        width: 47
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7044234c834be44798dcb83f0a95e8d
+      internalID: 875949083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1185
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca12898abdb2174d9ab1b9a4f7f2cd3
+      internalID: -1460923726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1185
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7225d7fd8dcbff04fb8ad6a56cc729eb
+      internalID: -992258850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1185
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93821e54bce868245958db3bdcf13ee5
+      internalID: 313313834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1185
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eb57e0dce0e1647b7df20e9485823d
+      internalID: -1805693185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_33
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1185
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19bcf347d49bd14783ceb9287eb8df7
+      internalID: -644782496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1185
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d789bf624e87545ac17caee5d2f9a9
+      internalID: 228276450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_35
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1185
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68cc704e45c1dd4aa3294cc16e0721d
+      internalID: -1774804708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1173
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a80c16d46f58f742a916f1c9bc58d0c
+      internalID: 374067134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1173
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc24f9f71d2fe784c80e0d3cea00fa0d
+      internalID: 2131925804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1173
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee79a72d6beeff84b9ffb9beea97af5d
+      internalID: -1061829807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_39
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1173
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208a502b19e013b42986f98ebdc6d91c
+      internalID: -1829457886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_40
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1172
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74873f6eb7100004caa98486316bfa43
+      internalID: -36941617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1172
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d1cd213a546594f9a15ca99e28a489
+      internalID: 950292134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_42
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1172
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd5fd1a8c941d4c8eba4d1f16d792b
+      internalID: -1471377269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1172
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51efe39e8e55475498c7122e5e31e442
+      internalID: -2028475943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_44
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1172
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73999e286e70ea84b9c6c485b6745d40
+      internalID: 170122689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_45
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1172
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f56038a18f224abc0add91b43bf93
+      internalID: -1377843544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_46
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1170
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fb0487f72d6984fb6e6b80607d3c95
+      internalID: 1823857193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1039
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeda2891bcd2fd4686f8557a0fcd749
+      internalID: 1819099218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_48
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1039
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d07c943989b4644abc9c88a824ceb8c
+      internalID: -95498738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1039
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59817e7c78f0b641a491d1145d64503
+      internalID: -1892348146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_50
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1039
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34304563e2aa08468f3413a84c247c5
+      internalID: 1557666090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_51
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1039
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e9ee58a54741341bc26ac2a33c25f0
+      internalID: 1341800416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_52
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1039
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53009ed240ec39847bd46c6deb8054ec
+      internalID: -310104464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_53
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1039
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3446cdd82a3d142aacad641fa352c3
+      internalID: 1602136925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1027
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b490a5682c79c54492e1ca2c0df48b5
+      internalID: -485256604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1027
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4204de1a6fe128c4297782884fbe7732
+      internalID: 290934780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1027
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf78dfb011cc73b4eacdf5282ed2c5e6
+      internalID: -1586059447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1027
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73ba98b61acc4342b73b6703cbb9dd7
+      internalID: 1313293758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_58
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1027
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229e86f3fde22a144a6c5aa7b199274b
+      internalID: 1713520090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_59
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1027
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861b6173290c994489044f6f848a2b5e
+      internalID: -615356854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_60
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1026
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419e1a67e79e48946a07738848bcabdd
+      internalID: 536393728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_61
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1026
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619ec7b65332628479870f0367d9dcbb
+      internalID: 171090350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_62
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1026
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e233fdf146b0a244bab0e141b2cf4ed0
+      internalID: 630077446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_63
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1026
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14da429786db3c1468fc3aabc57cec0d
+      internalID: 917068007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_64
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1026
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665fe00fc268d6b49857675ee7361026
+      internalID: 116977545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_65
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1026
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d7703146be59e4abc4d2cbee22c4c1
+      internalID: 1620711534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_66
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1026
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6852b783adb6942ae3e5027cd7a8f6
+      internalID: 209134244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_67
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 894
+        width: 46
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482a56f175aedec41bec78b466bbecd7
+      internalID: 559234904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 893
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617c3f7d54087044e8344f2604e39a57
+      internalID: -1521893475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_69
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 893
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e9d1d70cac49743a7c3221d007ec9f
+      internalID: 1534342752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 893
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc64e56a35805940a0cb178c70a9e68
+      internalID: 1634697708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_71
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 893
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131125fce87608740ab1d780318c1a5d
+      internalID: 924228888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_72
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 893
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4389368d9e4fcd44934dcfe51bc8bed
+      internalID: -1807613782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_73
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 893
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4785722128d44240a01480c6ca79bce
+      internalID: -931818179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_74
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 893
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f38fe891293e24a9bdd80d1b2456b5
+      internalID: 2127386336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_75
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 893
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c0d6cb8a57231448a91418089b2143
+      internalID: -740812000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_76
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 893
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87679c54d25c0b41b62bd2eda20df03
+      internalID: -1657679387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_77
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 881
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e73f144e713244ea2fb162c25a8dd6
+      internalID: 68770029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 881
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef32d16a6c9fbce46845c1a21fbe17c3
+      internalID: 1487752991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_79
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 881
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0018268019b56a4d9ab69368da69048
+      internalID: 1601849615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_80
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 881
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d64d23cf7a0744bc8d7ed915253fa
+      internalID: 1483306164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_81
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 881
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e294e8f55bbc19d48be2272eeafe9414
+      internalID: -2091645283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_82
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 881
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a3704594b07ce45b3bd457e14117a2
+      internalID: 1023607282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_83
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 880
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e583366f6d0674cb8d7683964d6bfc
+      internalID: -1671231205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_84
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 880
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309641c03dc39f54bb3488637919e71c
+      internalID: -59887676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_85
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 880
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b7d64fcd4e3cc49aa5e450f9ffa598
+      internalID: -1135639861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_86
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 880
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cc91d638eda914db86ec1271668a8d
+      internalID: -820566318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_87
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 880
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448f41d083f41bd4a81848d13e2abe02
+      internalID: -2040805955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_88
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 880
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e1e6be3a6713b4cbf3cd188749d9ee
+      internalID: -405370546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_89
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 880
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b03867f7d2fed64ab2d587f8b9c2bb1
+      internalID: 934547328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 747
+        width: 50
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bab7762b31bf441935fbd02a7206db
+      internalID: 987021258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 747
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3493535ae949ce3479fc799b05f4f3c4
+      internalID: -962636070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_92
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 747
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721a682536a39a84da1dbb55e0390031
+      internalID: -334953697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_93
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 747
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2840b02db878324e8bce410f99cd444
+      internalID: 571851122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_94
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 747
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30969057e72f6f428a2779492b77b82
+      internalID: -1536534053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_95
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 747
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c3e30c53f2bde47b8ec4d3ebb5f761
+      internalID: 553416780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_96
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 747
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571d19ad267be3f4e9ead9ddd39d017d
+      internalID: 1085595752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_97
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 747
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec54c028583f004383f25f2104653f3
+      internalID: 1704059480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_98
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 747
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f432962abe0f6934dbb7c85089603f18
+      internalID: -1083532695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_99
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 747
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821fbf7e6adec5c48a077ec928956f64
+      internalID: 1776270308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_100
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 747
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb49a574fad65446af9f265245ef0ce
+      internalID: -1608931964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_101
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 747
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162840bd4405f4d4e99fc4f04d71a682
+      internalID: 2134943963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 735
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8219abfbc2566ac4796614f3de262ceb
+      internalID: -1296776182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_103
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 735
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bac4eab84a54a1498f545bff4d6a836
+      internalID: 744644505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_104
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 735
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208b6ad6a3547ed438ad96df51ee7c94
+      internalID: 517460306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_105
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 735
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cc3be549d039f4ba36afadf326f7d7
+      internalID: 1400126505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_106
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 735
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c54e58d3f9fbdb4ba31ab59f65b3f48
+      internalID: 1713282374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_107
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 735
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212014c99e1d20c46a7771cd23489769
+      internalID: -643358529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_108
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 601
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d763a4bc1e2bebd4cbe6c97a34550d3a
+      internalID: -1933546153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_109
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 601
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee3c24674e479f43966d9dce547e12c
+      internalID: -39318457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_110
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 601
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165c09ac0be7d844fbb3f55ba35540d7
+      internalID: 812944500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_111
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 601
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b344f5a5e6cd42f48bc086a7e694f0bc
+      internalID: -1174235825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_112
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 601
+        width: 130
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e711d15628624c47b98efdec47f4f58
+      internalID: 1761617237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_113
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 601
+        width: 107
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc588b81f422ab149baf457bf0979d68
+      internalID: 300761444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_114
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 601
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86294607cd8bbdb4f8c410d613012411
+      internalID: -1740402370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_115
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 601
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ec2ff1ed1baf14c92d28f856f1b3aa
+      internalID: -2013492400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_116
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 601
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9961b6f0c6d41a4a984e1e392149548
+      internalID: -198377319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_117
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 589
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfb2dc4dd0dca94b90af17b19cd31f0
+      internalID: -94571963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_118
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 589
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409058d486a46444f968a08d52d5e7e3
+      internalID: 40478002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_119
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 589
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027a28d498bed094f9b724606e460d48
+      internalID: -1126705052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_120
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 589
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d69d005aee704f85bd6526a3a7ceb
+      internalID: 1756154440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_121
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 589
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c562f9be10283e84e915bc099e83cbf7
+      internalID: 319433858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_122
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 589
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d939561963267c64a9082fbec2e63f91
+      internalID: 180539113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_123
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 589
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4c4c8594c2f764da7bbfe2518c108d
+      internalID: 1896464394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_124
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 455
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3531f366e1c19a7409018c7325699d42
+      internalID: -663291629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_125
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 455
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e22efd11ae2a604390d885d52c3976e
+      internalID: -134181345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_126
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 455
+        width: 143
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44760b35850c5714b9bf843c7a0cf166
+      internalID: -312047268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_127
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 455
+        width: 117
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5d4dc1fb866c546b0220956146eae5
+      internalID: 1107681898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_128
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 455
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0651ba6bea38bee4584bbf690dec8132
+      internalID: -1733946745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_129
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 455
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea477086648ed949a83750b72c67303
+      internalID: 551623722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_130
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 455
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff653c885a8b6a4998303c7ca215d0d
+      internalID: 102414142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_131
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 443
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037602c0d080d5f4b95324b21f54a9c1
+      internalID: -1001947989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_132
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 443
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816054f25566f7145beef2a6210848f1
+      internalID: -1880725602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_133
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 443
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d6f7fc6e5b264408d36c77715071c5
+      internalID: 1198030731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_134
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 443
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21822e9bcbd17944ebf7bd29858b724a
+      internalID: -1893357768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_135
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 443
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e40de1f835bf048a70ab23cc5c96b7
+      internalID: -2093493701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_136
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 443
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7766c64dd3f4d488f132176c45eeed
+      internalID: 389916454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_137
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 443
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d21d91ba732240b12dd4b8a093364
+      internalID: 984715846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_138
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 309
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137746f01382f8b45a219efe383a5423
+      internalID: 871322022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_139
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 309
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560fa537473f379408e3fb9399df7a61
+      internalID: 1426871940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_140
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 309
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2d22e2bae733c46a593733a52ee347
+      internalID: -1983099312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_141
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 309
+        width: 128
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6f5d7de4cc13942b52c468341e672f
+      internalID: -25931645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_142
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 309
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f778f36c52c13754485094c108ad2456
+      internalID: 562252818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_143
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 309
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de16d9fbdeea49e409e942b2c2ac9f27
+      internalID: -1448427112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_144
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 309
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b97beb7ef695b340b03a9412509260f
+      internalID: 1853297948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_145
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 309
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8117ee9f4997b49ad861383cd1ed22
+      internalID: 1768341094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_146
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 297
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae917c46761ddfb4a9f644e7f60c2da4
+      internalID: 862597872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_147
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 297
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b002f90b0ed13a14891c7e20b1c53b0d
+      internalID: -1465802140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_148
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 297
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7dde1b97b30a4498b909d67e4cf225
+      internalID: -1038127728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_149
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 297
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb3762a23141ce418b5f2aa41e105a5
+      internalID: -747679669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_150
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 297
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca330d46338343846b3c0fbe8e4bdbb6
+      internalID: -523528551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_151
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 297
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b9e74a63c10c8458766aa20c27204a
+      internalID: -166186545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_152
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 297
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954101bfce77bf24480d4c6c6efd6fd4
+      internalID: -1098066437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_153
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 163
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6be6ff7035ffdd45b8bf5a06bc6a773
+      internalID: -2132748436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_154
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 163
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740ee2aa5a0353746bae1149dc243a47
+      internalID: 454657053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_155
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 163
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b2d780c8676c949a999dbd2f1834f0
+      internalID: -230073877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_156
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 163
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b4e004b248ac748b0c4d614624bce6
+      internalID: -464737426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_157
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 163
+        width: 130
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875567336becbff4286bdc9dd6a70ef9
+      internalID: -1180065751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_158
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 163
+        width: 108
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5413911d9fbbbcf4896e4b5c5e72b6c1
+      internalID: 1895348965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_159
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 163
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6e72a739684574fa4449ab7febbb5b
+      internalID: 1689703262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_160
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 163
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58d1644d0b384c46b71c17cb8a53af2
+      internalID: -1454819801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_161
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da39fcc6912394645b73c76b2061fd07
+      internalID: 1952834531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_162
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 145
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978fe0fada44cb74caefc8dc2b9669ea
+      internalID: -686944954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_163
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 145
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839fb67f6a7b8d44da85a61c71bce6d1
+      internalID: -701915432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_164
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 145
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b99c04b284654fb3a713c058c8418
+      internalID: -2011635980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_165
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 145
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809f93a6045d96f4395c3f9265dc23c2
+      internalID: -821406199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_166
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 145
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c42f2ece8d940049b2aa1728f8dd2cb
+      internalID: 1126323274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_167
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 145
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7d8309f87e94142b5d5fe119bf029b
+      internalID: 834740639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_168
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 5
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f572439b51e33341bac8a27f0425b4d
+      internalID: 1616046968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_169
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0507441eea628da4fbe4046175ef1883
+      internalID: 343878290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_170
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 11
+        width: 57
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f466a4e5a0f4bb143aa92528de2154fd
+      internalID: -110539213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_171
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 11
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc2097f3998cda48983ea31a8936e0a
+      internalID: -468724839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_172
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 11
+        width: 134
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f6e5528890e74782a0b36f31490a9
+      internalID: 1324392216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_173
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 72
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4152c0169222a5e49b0acfbe714f3259
+      internalID: 1117222055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_174
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 11
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e21c141eeab4e54484a82d9850d3d6b
+      internalID: 1451018783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_175
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 11
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd986dcc76f2294bb21380dc2b0b1e8
+      internalID: 430259461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_176
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 11
+        width: 63
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889b429c2cff74145b22c2617a725094
+      internalID: -479486324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_177
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 11
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633d0d4fa7344334da0074cd675ccd7f
+      internalID: -1482237069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_178
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 5
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7059d66e09c1745478c64aa574451f4d
+      internalID: -789567121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_179
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 27
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14ca1f25533fcf458a0f28db5ec9331
+      internalID: -1067046594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aya_180
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 5
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2998e7df025960409da69a2e4cca880
+      internalID: -551154593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b85db7fc50d58fa4394948767490f7c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: True
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      aya_0: -7170808438225160291
+      aya_1: 786097354
+      aya_10: 1520319573
+      aya_100: -1608931964
+      aya_101: 2134943963
+      aya_102: -1296776182
+      aya_103: 744644505
+      aya_104: 517460306
+      aya_105: 1400126505
+      aya_106: 1713282374
+      aya_107: -643358529
+      aya_108: -1933546153
+      aya_109: -39318457
+      aya_11: -339680278
+      aya_110: 812944500
+      aya_111: -1174235825
+      aya_112: 1761617237
+      aya_113: 300761444
+      aya_114: -1740402370
+      aya_115: -2013492400
+      aya_116: -198377319
+      aya_117: -94571963
+      aya_118: 40478002
+      aya_119: -1126705052
+      aya_12: 1617968422
+      aya_120: 1756154440
+      aya_121: 319433858
+      aya_122: 180539113
+      aya_123: 1896464394
+      aya_124: -663291629
+      aya_125: -134181345
+      aya_126: -312047268
+      aya_127: 1107681898
+      aya_128: -1733946745
+      aya_129: 551623722
+      aya_13: 380040605
+      aya_130: 102414142
+      aya_131: -1001947989
+      aya_132: -1880725602
+      aya_133: 1198030731
+      aya_134: -1893357768
+      aya_135: -2093493701
+      aya_136: 389916454
+      aya_137: 984715846
+      aya_138: 871322022
+      aya_139: 1426871940
+      aya_14: -1064406173
+      aya_140: -1983099312
+      aya_141: -25931645
+      aya_142: 562252818
+      aya_143: -1448427112
+      aya_144: 1853297948
+      aya_145: 1768341094
+      aya_146: 862597872
+      aya_147: -1465802140
+      aya_148: -1038127728
+      aya_149: -747679669
+      aya_15: -1610123909
+      aya_150: -523528551
+      aya_151: -166186545
+      aya_152: -1098066437
+      aya_153: -2132748436
+      aya_154: 454657053
+      aya_155: -230073877
+      aya_156: -464737426
+      aya_157: -1180065751
+      aya_158: 1895348965
+      aya_159: 1689703262
+      aya_16: -1836193603
+      aya_160: -1454819801
+      aya_161: 1952834531
+      aya_162: -686944954
+      aya_163: -701915432
+      aya_164: -2011635980
+      aya_165: -821406199
+      aya_166: 1126323274
+      aya_167: 834740639
+      aya_168: 1616046968
+      aya_169: 343878290
+      aya_17: 2054593532
+      aya_170: -110539213
+      aya_171: -468724839
+      aya_172: 1324392216
+      aya_173: 1117222055
+      aya_174: 1451018783
+      aya_175: 430259461
+      aya_176: -479486324
+      aya_177: -1482237069
+      aya_178: -789567121
+      aya_179: -1067046594
+      aya_18: 854285199
+      aya_180: -551154593
+      aya_19: 461902592
+      aya_2: -555031728
+      aya_20: -1417344126
+      aya_21: -65067881
+      aya_22: 1602552767
+      aya_23: 1115517543
+      aya_24: -1066706499
+      aya_25: 2033762294
+      aya_26: -1333591770
+      aya_27: -1184862017
+      aya_28: 875949083
+      aya_29: -1460923726
+      aya_3: 344386386
+      aya_30: -992258850
+      aya_31: 313313834
+      aya_32: -1805693185
+      aya_33: -644782496
+      aya_34: 228276450
+      aya_35: -1774804708
+      aya_36: 374067134
+      aya_37: 2131925804
+      aya_38: -1061829807
+      aya_39: -1829457886
+      aya_4: 1259498620
+      aya_40: -36941617
+      aya_41: 950292134
+      aya_42: -1471377269
+      aya_43: -2028475943
+      aya_44: 170122689
+      aya_45: -1377843544
+      aya_46: 1823857193
+      aya_47: 1819099218
+      aya_48: -95498738
+      aya_49: -1892348146
+      aya_5: -1230865868
+      aya_50: 1557666090
+      aya_51: 1341800416
+      aya_52: -310104464
+      aya_53: 1602136925
+      aya_54: -485256604
+      aya_55: 290934780
+      aya_56: -1586059447
+      aya_57: 1313293758
+      aya_58: 1713520090
+      aya_59: -615356854
+      aya_6: -209910785
+      aya_60: 536393728
+      aya_61: 171090350
+      aya_62: 630077446
+      aya_63: 917068007
+      aya_64: 116977545
+      aya_65: 1620711534
+      aya_66: 209134244
+      aya_67: 559234904
+      aya_68: -1521893475
+      aya_69: 1534342752
+      aya_7: -934677683
+      aya_70: 1634697708
+      aya_71: 924228888
+      aya_72: -1807613782
+      aya_73: -931818179
+      aya_74: 2127386336
+      aya_75: -740812000
+      aya_76: -1657679387
+      aya_77: 68770029
+      aya_78: 1487752991
+      aya_79: 1601849615
+      aya_8: -621096690
+      aya_80: 1483306164
+      aya_81: -2091645283
+      aya_82: 1023607282
+      aya_83: -1671231205
+      aya_84: -59887676
+      aya_85: -1135639861
+      aya_86: -820566318
+      aya_87: -2040805955
+      aya_88: -405370546
+      aya_89: 934547328
+      aya_9: -892846690
+      aya_90: 987021258
+      aya_91: -962636070
+      aya_92: -334953697
+      aya_93: 571851122
+      aya_94: -1536534053
+      aya_95: 553416780
+      aya_96: 1085595752
+      aya_97: 1704059480
+      aya_98: -1083532695
+      aya_99: 1776270308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

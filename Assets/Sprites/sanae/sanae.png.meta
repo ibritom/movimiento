@@ -1,0 +1,7865 @@
+fileFormatVersion: 2
+guid: 5421fab71a6363a489e565c387be38ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6677307931863865003
+    second: sanae_0
+  - first:
+      213: 2234957510698030190
+    second: sanae_1
+  - first:
+      213: -1801978146773631615
+    second: sanae_2
+  - first:
+      213: -3422978679578018683
+    second: sanae_3
+  - first:
+      213: -1025360199473000474
+    second: sanae_4
+  - first:
+      213: 5782941163641515634
+    second: sanae_5
+  - first:
+      213: 41078090302456407
+    second: sanae_6
+  - first:
+      213: -6096157944013662202
+    second: sanae_7
+  - first:
+      213: -5292182090557715530
+    second: sanae_8
+  - first:
+      213: 3737455454358101111
+    second: sanae_9
+  - first:
+      213: -7145962898008517885
+    second: sanae_10
+  - first:
+      213: -4736217647429573370
+    second: sanae_11
+  - first:
+      213: -5708191444138432066
+    second: sanae_12
+  - first:
+      213: -5855089078232227332
+    second: sanae_13
+  - first:
+      213: -5161597027274204730
+    second: sanae_14
+  - first:
+      213: -3308577259719894027
+    second: sanae_15
+  - first:
+      213: 359361277889743179
+    second: sanae_16
+  - first:
+      213: -6264145648968341995
+    second: sanae_17
+  - first:
+      213: -4279537400350226695
+    second: sanae_18
+  - first:
+      213: -3280803215747066817
+    second: sanae_19
+  - first:
+      213: -6688841696447192853
+    second: sanae_20
+  - first:
+      213: 847080881054153645
+    second: sanae_21
+  - first:
+      213: -7277708515773025008
+    second: sanae_22
+  - first:
+      213: 5069168056909689689
+    second: sanae_23
+  - first:
+      213: -2583255376594495462
+    second: sanae_24
+  - first:
+      213: -1363328222508471052
+    second: sanae_25
+  - first:
+      213: 5798746012144356632
+    second: sanae_26
+  - first:
+      213: 6195458318634253407
+    second: sanae_27
+  - first:
+      213: -2829054761489756060
+    second: sanae_28
+  - first:
+      213: 6440034361395869489
+    second: sanae_29
+  - first:
+      213: 248016624738634634
+    second: sanae_30
+  - first:
+      213: 2847287612532156602
+    second: sanae_31
+  - first:
+      213: -4473167977043026146
+    second: sanae_32
+  - first:
+      213: -743296909814794611
+    second: sanae_33
+  - first:
+      213: -1327040261049097820
+    second: sanae_34
+  - first:
+      213: 1090873260283335296
+    second: sanae_35
+  - first:
+      213: -5336101470725582223
+    second: sanae_36
+  - first:
+      213: 2116313316674152142
+    second: sanae_37
+  - first:
+      213: 1762499723795184199
+    second: sanae_38
+  - first:
+      213: 2560243587138172145
+    second: sanae_39
+  - first:
+      213: 8882696913277350434
+    second: sanae_40
+  - first:
+      213: 3907621489365139804
+    second: sanae_41
+  - first:
+      213: 7159662987302672343
+    second: sanae_42
+  - first:
+      213: 7061778472995892363
+    second: sanae_43
+  - first:
+      213: 3209245577050507514
+    second: sanae_44
+  - first:
+      213: -8299308862202157715
+    second: sanae_45
+  - first:
+      213: 3602922067504087050
+    second: sanae_46
+  - first:
+      213: -278523746657547103
+    second: sanae_47
+  - first:
+      213: -5024815290645903490
+    second: sanae_48
+  - first:
+      213: 3023341441921310096
+    second: sanae_49
+  - first:
+      213: -7128185760685869984
+    second: sanae_50
+  - first:
+      213: -7514981754088562398
+    second: sanae_51
+  - first:
+      213: -7916898869394619555
+    second: sanae_52
+  - first:
+      213: 87143026813603677
+    second: sanae_53
+  - first:
+      213: -6546979175382225775
+    second: sanae_54
+  - first:
+      213: -7091313117295144654
+    second: sanae_55
+  - first:
+      213: 3313269733377525906
+    second: sanae_56
+  - first:
+      213: 7106689275430515784
+    second: sanae_57
+  - first:
+      213: 4289493303357488385
+    second: sanae_58
+  - first:
+      213: 4696471363117003491
+    second: sanae_59
+  - first:
+      213: -8856192543634814786
+    second: sanae_60
+  - first:
+      213: -1949824713209348112
+    second: sanae_61
+  - first:
+      213: 2485348721475129962
+    second: sanae_62
+  - first:
+      213: 8776282660077445757
+    second: sanae_63
+  - first:
+      213: 8352110404310015114
+    second: sanae_64
+  - first:
+      213: -5870782750445398030
+    second: sanae_65
+  - first:
+      213: -6739542620927855684
+    second: sanae_66
+  - first:
+      213: -1268102356114440926
+    second: sanae_67
+  - first:
+      213: 9091690439399326561
+    second: sanae_68
+  - first:
+      213: -7655621682812229095
+    second: sanae_69
+  - first:
+      213: -1588749217371342223
+    second: sanae_70
+  - first:
+      213: -1642848264434773599
+    second: sanae_71
+  - first:
+      213: -4894276742166807270
+    second: sanae_72
+  - first:
+      213: 1862004049551402166
+    second: sanae_73
+  - first:
+      213: 7499692868674577781
+    second: sanae_74
+  - first:
+      213: -3262964358080708214
+    second: sanae_75
+  - first:
+      213: -2156747410040291828
+    second: sanae_76
+  - first:
+      213: 943841537426090619
+    second: sanae_77
+  - first:
+      213: 5188330386862798859
+    second: sanae_78
+  - first:
+      213: 6827186844946754859
+    second: sanae_79
+  - first:
+      213: -3910563102348969070
+    second: sanae_80
+  - first:
+      213: 7198673704927299498
+    second: sanae_81
+  - first:
+      213: -7274530999839483807
+    second: sanae_82
+  - first:
+      213: -6957941979943225177
+    second: sanae_83
+  - first:
+      213: -4838274659425846839
+    second: sanae_84
+  - first:
+      213: -8888489030263653396
+    second: sanae_85
+  - first:
+      213: 5560410364648374716
+    second: sanae_86
+  - first:
+      213: -2134705446943944277
+    second: sanae_87
+  - first:
+      213: 523307218418534000
+    second: sanae_88
+  - first:
+      213: -4456901077276186160
+    second: sanae_89
+  - first:
+      213: 6097360976389225755
+    second: sanae_90
+  - first:
+      213: 7235830827357385277
+    second: sanae_91
+  - first:
+      213: 4373414378252641141
+    second: sanae_92
+  - first:
+      213: -7265052263155924886
+    second: sanae_93
+  - first:
+      213: -9007893407908689403
+    second: sanae_94
+  - first:
+      213: -2065438781540273931
+    second: sanae_95
+  - first:
+      213: -6859093212330919790
+    second: sanae_96
+  - first:
+      213: 717059043562533699
+    second: sanae_97
+  - first:
+      213: 4681625775140347211
+    second: sanae_98
+  - first:
+      213: -2268468752119568999
+    second: sanae_99
+  - first:
+      213: 6706343688925479325
+    second: sanae_100
+  - first:
+      213: -1908401750857262409
+    second: sanae_101
+  - first:
+      213: -8368496531628601335
+    second: sanae_102
+  - first:
+      213: -7015832898198188111
+    second: sanae_103
+  - first:
+      213: 2094310612378224362
+    second: sanae_104
+  - first:
+      213: -1468465367308318334
+    second: sanae_105
+  - first:
+      213: 5621264307090371872
+    second: sanae_106
+  - first:
+      213: -5005449987720094152
+    second: sanae_107
+  - first:
+      213: 8909652731992394631
+    second: sanae_108
+  - first:
+      213: 3410211688963019712
+    second: sanae_109
+  - first:
+      213: -1378093704405876015
+    second: sanae_110
+  - first:
+      213: 4192141327661862236
+    second: sanae_111
+  - first:
+      213: 1341759219465965860
+    second: sanae_112
+  - first:
+      213: -4297434794581537289
+    second: sanae_113
+  - first:
+      213: -6032425965564899987
+    second: sanae_114
+  - first:
+      213: -8692495905028773797
+    second: sanae_115
+  - first:
+      213: 7249519335986065290
+    second: sanae_116
+  - first:
+      213: 5828203640673456418
+    second: sanae_117
+  - first:
+      213: -2631086320402828556
+    second: sanae_118
+  - first:
+      213: 5551263409902305035
+    second: sanae_119
+  - first:
+      213: 2075517876299774495
+    second: sanae_120
+  - first:
+      213: 7196917758902213069
+    second: sanae_121
+  - first:
+      213: -1316986564899186550
+    second: sanae_122
+  - first:
+      213: -4282309824313796015
+    second: sanae_123
+  - first:
+      213: -5282275752657316514
+    second: sanae_124
+  - first:
+      213: -5473276073201241617
+    second: sanae_125
+  - first:
+      213: -6208222196104739924
+    second: sanae_126
+  - first:
+      213: 6894241522334425097
+    second: sanae_127
+  - first:
+      213: 6890937963319961964
+    second: sanae_128
+  - first:
+      213: 4892032607716187033
+    second: sanae_129
+  - first:
+      213: -4256884793547093006
+    second: sanae_130
+  - first:
+      213: 7984279406401434205
+    second: sanae_131
+  - first:
+      213: 7150620094954872594
+    second: sanae_132
+  - first:
+      213: 5707246331300407
+    second: sanae_133
+  - first:
+      213: -219034976173527276
+    second: sanae_134
+  - first:
+      213: -1192408840753309055
+    second: sanae_135
+  - first:
+      213: 7578084709812986372
+    second: sanae_136
+  - first:
+      213: -5150668627277674690
+    second: sanae_137
+  - first:
+      213: -9013211851132117493
+    second: sanae_138
+  - first:
+      213: 901440985954334785
+    second: sanae_139
+  - first:
+      213: -7338126570773191812
+    second: sanae_140
+  - first:
+      213: 2398105113681822491
+    second: sanae_141
+  - first:
+      213: 1654824695943902847
+    second: sanae_142
+  - first:
+      213: 4724378522503607382
+    second: sanae_143
+  - first:
+      213: -1088168597775249972
+    second: sanae_144
+  - first:
+      213: 3478787115358900546
+    second: sanae_145
+  - first:
+      213: 4565561192810493207
+    second: sanae_146
+  - first:
+      213: -8447182290433574804
+    second: sanae_147
+  - first:
+      213: 6330580634980306961
+    second: sanae_148
+  - first:
+      213: -5765856088369416993
+    second: sanae_149
+  - first:
+      213: -3935546907758638243
+    second: sanae_150
+  - first:
+      213: -8840132382881444689
+    second: sanae_151
+  - first:
+      213: 2077403811938517905
+    second: sanae_152
+  - first:
+      213: -8951100191848955183
+    second: sanae_153
+  - first:
+      213: 1106373750403174259
+    second: sanae_154
+  - first:
+      213: 4268665940936571597
+    second: sanae_155
+  - first:
+      213: -6027957433514443980
+    second: sanae_156
+  - first:
+      213: -7467330020818716611
+    second: sanae_157
+  - first:
+      213: -8145310857003058906
+    second: sanae_158
+  - first:
+      213: 5930203015145821415
+    second: sanae_159
+  - first:
+      213: -5212050348559002968
+    second: sanae_160
+  - first:
+      213: -5608812726892618604
+    second: sanae_161
+  - first:
+      213: 1926947081416270653
+    second: sanae_162
+  - first:
+      213: 8764240291289646461
+    second: sanae_163
+  - first:
+      213: 2810578602082350586
+    second: sanae_164
+  - first:
+      213: 5059378047666317103
+    second: sanae_165
+  - first:
+      213: -3842106459435687103
+    second: sanae_166
+  - first:
+      213: -6159158635322361774
+    second: sanae_167
+  - first:
+      213: -7851192023828374564
+    second: sanae_168
+  - first:
+      213: -6311812606595663264
+    second: sanae_169
+  - first:
+      213: -3964943703867619447
+    second: sanae_170
+  - first:
+      213: -6863143782575003173
+    second: sanae_171
+  - first:
+      213: -6308238691614356604
+    second: sanae_172
+  - first:
+      213: 6239438592214131075
+    second: sanae_173
+  - first:
+      213: 7183266579071282497
+    second: sanae_174
+  - first:
+      213: 8928469996941664902
+    second: sanae_175
+  - first:
+      213: 604233225077464964
+    second: sanae_176
+  - first:
+      213: 294250507757252671
+    second: sanae_177
+  - first:
+      213: -6236953160322192972
+    second: sanae_178
+  - first:
+      213: -2712314731795429829
+    second: sanae_179
+  - first:
+      213: -2873878658225214950
+    second: sanae_180
+  - first:
+      213: -542806425037495502
+    second: sanae_181
+  - first:
+      213: 2348487953503696426
+    second: sanae_182
+  - first:
+      213: -3981756132603741495
+    second: sanae_183
+  - first:
+      213: 3648446759100301867
+    second: sanae_184
+  - first:
+      213: -1510021091219720252
+    second: sanae_185
+  - first:
+      213: 6214773323074732794
+    second: sanae_186
+  - first:
+      213: -6168828105442537903
+    second: sanae_187
+  - first:
+      213: -1400711995659640476
+    second: sanae_188
+  - first:
+      213: -404387400833232433
+    second: sanae_189
+  - first:
+      213: -5651642602312334986
+    second: sanae_190
+  - first:
+      213: -5571171434684987427
+    second: sanae_191
+  - first:
+      213: 1748068910594494803
+    second: sanae_192
+  - first:
+      213: 7135306973682710386
+    second: sanae_193
+  - first:
+      213: 4721646324202033074
+    second: sanae_194
+  - first:
+      213: 7511510372138837863
+    second: sanae_195
+  - first:
+      213: -6354581685659588529
+    second: sanae_196
+  - first:
+      213: -1868007300324074536
+    second: sanae_197
+  - first:
+      213: -8208264561361158218
+    second: sanae_198
+  - first:
+      213: -5223353367517430361
+    second: sanae_199
+  - first:
+      213: -2298165306181505443
+    second: sanae_200
+  - first:
+      213: -4117688122594116656
+    second: sanae_201
+  - first:
+      213: 1408739175472294633
+    second: sanae_202
+  - first:
+      213: -2642989808948820650
+    second: sanae_203
+  - first:
+      213: -1294889824382893493
+    second: sanae_204
+  - first:
+      213: -2845751103010309624
+    second: sanae_205
+  - first:
+      213: -7778447348180638287
+    second: sanae_206
+  - first:
+      213: -5447784236528281459
+    second: sanae_207
+  - first:
+      213: 3151342638829345549
+    second: sanae_208
+  - first:
+      213: -5224634335574877599
+    second: sanae_209
+  - first:
+      213: 7218604566824109821
+    second: sanae_210
+  - first:
+      213: 8009856178845496784
+    second: sanae_211
+  - first:
+      213: -1914373972602051173
+    second: sanae_212
+  - first:
+      213: -977401071060512629
+    second: sanae_213
+  - first:
+      213: 3776275315084367480
+    second: sanae_214
+  - first:
+      213: 7110142192730474655
+    second: sanae_215
+  - first:
+      213: 4437832490746129365
+    second: sanae_216
+  - first:
+      213: -4724654850301285769
+    second: sanae_217
+  - first:
+      213: -1777490219017181183
+    second: sanae_218
+  - first:
+      213: 6386058512830954128
+    second: sanae_219
+  - first:
+      213: 2235322075847284429
+    second: sanae_220
+  - first:
+      213: -6770168068221583514
+    second: sanae_221
+  - first:
+      213: 5849303391470288068
+    second: sanae_222
+  - first:
+      213: -1250524928584351993
+    second: sanae_223
+  - first:
+      213: -7971652981341772452
+    second: sanae_224
+  - first:
+      213: -6589654134730805692
+    second: sanae_225
+  - first:
+      213: -812576351609840392
+    second: sanae_226
+  - first:
+      213: 8020492759336478688
+    second: sanae_227
+  - first:
+      213: 4996172084505188993
+    second: sanae_228
+  - first:
+      213: -5832755083874603035
+    second: sanae_229
+  - first:
+      213: -8211584607585823972
+    second: sanae_230
+  - first:
+      213: -5261454695920014848
+    second: sanae_231
+  - first:
+      213: -7569765923730051094
+    second: sanae_232
+  - first:
+      213: -7977926184549351822
+    second: sanae_233
+  - first:
+      213: 7259113811135515704
+    second: sanae_234
+  - first:
+      213: 572128505901052617
+    second: sanae_235
+  - first:
+      213: -7588507839110761866
+    second: sanae_236
+  - first:
+      213: -1660763661680187373
+    second: sanae_237
+  - first:
+      213: 7791314893035399607
+    second: sanae_238
+  - first:
+      213: 9145590319690757884
+    second: sanae_239
+  - first:
+      213: -6167185718866711425
+    second: sanae_240
+  - first:
+      213: -9093794446048212533
+    second: sanae_241
+  - first:
+      213: 5720811728120002715
+    second: sanae_242
+  - first:
+      213: 1200590924822426842
+    second: sanae_243
+  - first:
+      213: -5041303940867621191
+    second: sanae_244
+  - first:
+      213: -926839541460363981
+    second: sanae_245
+  - first:
+      213: 1668769933030012263
+    second: sanae_246
+  - first:
+      213: 905152506618771203
+    second: sanae_247
+  - first:
+      213: 1138245847909436724
+    second: sanae_248
+  - first:
+      213: -2043764359046311091
+    second: sanae_249
+  - first:
+      213: -5159730508649853999
+    second: sanae_250
+  - first:
+      213: -8359040232780381182
+    second: sanae_251
+  - first:
+      213: 9138102098886036166
+    second: sanae_252
+  - first:
+      213: 635928152250314840
+    second: sanae_253
+  - first:
+      213: 7850959792493442260
+    second: sanae_254
+  - first:
+      213: 2036214202366083253
+    second: sanae_255
+  - first:
+      213: 7563610844471735156
+    second: sanae_256
+  - first:
+      213: -7646787922820064768
+    second: sanae_257
+  - first:
+      213: 2507497407925030879
+    second: sanae_258
+  - first:
+      213: 7299682147325374593
+    second: sanae_259
+  - first:
+      213: 7846105048050908763
+    second: sanae_260
+  - first:
+      213: 7969008110930958531
+    second: sanae_261
+  - first:
+      213: -6286176068706800407
+    second: sanae_262
+  - first:
+      213: -7234975754814095179
+    second: sanae_263
+  - first:
+      213: 4932193571078781436
+    second: sanae_264
+  - first:
+      213: -2177209476750530972
+    second: sanae_265
+  - first:
+      213: 2902496025768525035
+    second: sanae_266
+  - first:
+      213: -1057208416466568057
+    second: sanae_267
+  - first:
+      213: -6482510910548413358
+    second: sanae_268
+  - first:
+      213: -2776107359776208528
+    second: sanae_269
+  - first:
+      213: 8403121342042575967
+    second: sanae_270
+  - first:
+      213: 2884745674629002857
+    second: sanae_271
+  - first:
+      213: 5639847705339933594
+    second: sanae_272
+  - first:
+      213: 6128776082222896178
+    second: sanae_273
+  - first:
+      213: 1594227856030268834
+    second: sanae_274
+  - first:
+      213: -2407010832918883936
+    second: sanae_275
+  - first:
+      213: 342568477587384012
+    second: sanae_276
+  - first:
+      213: -7204039808931465179
+    second: sanae_277
+  - first:
+      213: -3729574672969804983
+    second: sanae_278
+  - first:
+      213: -8671059606296287819
+    second: sanae_279
+  - first:
+      213: -4427478397176275451
+    second: sanae_280
+  - first:
+      213: 5704994640051776882
+    second: sanae_281
+  - first:
+      213: -1694473672172876565
+    second: sanae_282
+  - first:
+      213: 8645492847230740776
+    second: sanae_283
+  - first:
+      213: -2435149778796576827
+    second: sanae_284
+  - first:
+      213: 1168401228351113913
+    second: sanae_285
+  - first:
+      213: -1298052286299075306
+    second: sanae_286
+  - first:
+      213: 6361854423374207519
+    second: sanae_287
+  - first:
+      213: 8738925063935511376
+    second: sanae_288
+  - first:
+      213: 3176885251219801756
+    second: sanae_289
+  - first:
+      213: 8178262792777975982
+    second: sanae_290
+  - first:
+      213: 3054392120986529565
+    second: sanae_291
+  - first:
+      213: -6650936601092091300
+    second: sanae_292
+  - first:
+      213: -1333590907066161447
+    second: sanae_293
+  - first:
+      213: 1954856157629235463
+    second: sanae_294
+  - first:
+      213: 8544007419244102095
+    second: sanae_295
+  - first:
+      213: -7602604395306640385
+    second: sanae_296
+  - first:
+      213: 1513666978179282839
+    second: sanae_297
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sanae_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1321
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5592b5950df6553a0800000000000000
+      internalID: -6677307931863865003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1321
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e645f31c30a240f10800000000000000
+      internalID: 2234957510698030190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1321
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d7a8c3c661ef6e0800000000000000
+      internalID: -1801978146773631615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1321
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c3402d6032f70d0800000000000000
+      internalID: -3422978679578018683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1321
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef8697c45035c1f0800000000000000
+      internalID: -1025360199473000474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_5
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1321
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e26d75952214050800000000000000
+      internalID: 5782941163641515634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_6
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1321
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75287843e40f19000800000000000000
+      internalID: 41078090302456407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1215
+        width: 69
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608d36416a8166ba0800000000000000
+      internalID: -6096157944013662202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1215
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb8f958d646e86b0800000000000000
+      internalID: -5292182090557715530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1215
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c5cd01feb1ed330800000000000000
+      internalID: 3737455454358101111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1215
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303d41eea9074dc90800000000000000
+      internalID: -7145962898008517885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1215
+        width: 86
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605260aa423954eb0800000000000000
+      internalID: -4736217647429573370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_12
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1214
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb96436ff1e68c0b0800000000000000
+      internalID: -5708191444138432066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1213
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1e2b3418b8ebea0800000000000000
+      internalID: -5855089078232227332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_14
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1213
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9db9bd9d25e58b0800000000000000
+      internalID: -5161597027274204730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_15
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1214
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbd57a03829512d0800000000000000
+      internalID: -3308577259719894027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_16
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1214
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4906a2ad25bcf400800000000000000
+      internalID: 359361277889743179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_17
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1215
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516eeeb98b84119a0800000000000000
+      internalID: -6264145648968341995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_18
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1215
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6402988670c94c0800000000000000
+      internalID: -4279537400350226695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_19
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1215
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34df639bde3872d0800000000000000
+      internalID: -3280803215747066817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_20
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1215
+        width: 63
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0a1748ae57c23a0800000000000000
+      internalID: -6688841696447192853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_21
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1215
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabf143c29f61cb00800000000000000
+      internalID: 847080881054153645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_22
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1215
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0157382f9a2600b90800000000000000
+      internalID: -7277708515773025008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1194
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953fbda7d7d495640800000000000000
+      internalID: 5069168056909689689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1897f1fbee662cd0800000000000000
+      internalID: -2583255376594495462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1194
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc2e11743c741de0800000000000000
+      internalID: -1363328222508471052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1194
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dc39466c8497050800000000000000
+      internalID: 5798746012144356632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cfeee0480baf550800000000000000
+      internalID: 6195458318634253407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1194
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4609643fead2db8d0800000000000000
+      internalID: -2829054761489756060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1377f4481299f5950800000000000000
+      internalID: 6440034361395869489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1194
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b00ff5ec1217300800000000000000
+      internalID: 248016624738634634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8695e7ff8938720800000000000000
+      internalID: 2847287612532156602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1089
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f92bbbc6d1ce1c0800000000000000
+      internalID: -4473167977043026146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1090
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86f7df06674fa5f0800000000000000
+      internalID: -743296909814794611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1091
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1e68dd9e7659de0800000000000000
+      internalID: -1327040261049097820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_35
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1091
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0821926537f832f00800000000000000
+      internalID: 1090873260283335296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1091
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17256f7fbfb52f5b0800000000000000
+      internalID: -5336101470725582223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_37
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1091
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6aac1bfb7ae5d10800000000000000
+      internalID: 2116313316674152142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_38
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1092
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a39812928a57810800000000000000
+      internalID: 1762499723795184199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_39
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1092
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4b7dd4affc78320800000000000000
+      internalID: 2560243587138172145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_40
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1089
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222fa53b7cda54b70800000000000000
+      internalID: 8882696913277350434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_41
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1088
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51ca468a09aa3630800000000000000
+      internalID: 3907621489365139804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_42
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1086
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d710bdad8b3c5360800000000000000
+      internalID: 7159662987302672343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1070
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cab653b1a700260800000000000000
+      internalID: 7061778472995892363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1070
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8c61959d7898c20800000000000000
+      internalID: 3209245577050507514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1070
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65603bbf8ee2dc80800000000000000
+      internalID: -8299308862202157715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1070
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a004ff20886200230800000000000000
+      internalID: 3602922067504087050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_47
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1070
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac47fac02c722cf0800000000000000
+      internalID: -278523746657547103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1070
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e778913ad15444ab0800000000000000
+      internalID: -5024815290645903490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1070
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ddf68e50115f920800000000000000
+      internalID: 3023341441921310096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1070
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064325141d8931d90800000000000000
+      internalID: -7128185760685869984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1070
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221620629eb65b790800000000000000
+      internalID: -7514981754088562398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_52
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1070
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53ca0f7c66812290800000000000000
+      internalID: -7916898869394619555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_53
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1070
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f80e50f18953100800000000000000
+      internalID: 87143026813603677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_54
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1070
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c667b90257425a0800000000000000
+      internalID: -6546979175382225775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_55
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1070
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2311e8c8a48969d90800000000000000
+      internalID: -7091313117295144654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_56
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1070
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298450f94491bfd20800000000000000
+      internalID: 3313269733377525906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_57
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1070
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8443d1f3e3800a260800000000000000
+      internalID: 7106689275430515784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_58
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1070
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d3a05ce67578b30800000000000000
+      internalID: 4289493303357488385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1070
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2326062d73d2140800000000000000
+      internalID: 4696471363117003491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_60
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1070
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb80f2ebdcb781580800000000000000
+      internalID: -8856192543634814786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_61
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1070
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fff0e201c4d0f4e0800000000000000
+      internalID: -1949824713209348112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_62
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1070
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a621f768e7bbd7220800000000000000
+      internalID: 2485348721475129962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_63
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1070
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d722652a49e9bc970800000000000000
+      internalID: 8776282660077445757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_64
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1068
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c1ebd4928a8e370800000000000000
+      internalID: 8352110404310015114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 967
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f71636713ac68ea0800000000000000
+      internalID: -5870782750445398030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 971
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb37df2a1b55872a0800000000000000
+      internalID: -6739542620927855684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 971
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d76f430abc66ee0800000000000000
+      internalID: -1268102356114440926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_68
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 971
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1634638e84c2c2e70800000000000000
+      internalID: 9091690439399326561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_69
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 971
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ae23504a4c1c590800000000000000
+      internalID: -7655621682812229095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_70
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 975
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ab66d1101a3f9e0800000000000000
+      internalID: -1588749217371342223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_71
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 974
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a19f7a253e6339e0800000000000000
+      internalID: -1642848264434773599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_72
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 969
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1df0b6eb39041cb0800000000000000
+      internalID: -4894276742166807270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_73
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 969
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4a9d751da27d910800000000000000
+      internalID: 1862004049551402166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_74
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1046
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575e0e1dde2441860800000000000000
+      internalID: 7499692868674577781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_75
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1048
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81c6d9443f97b2d0800000000000000
+      internalID: -3262964358080708214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_76
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1048
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0efd4258a1b112e0800000000000000
+      internalID: -2156747410040291828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_77
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1048
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a6a8aa0e2391d00800000000000000
+      internalID: 943841537426090619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_78
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1048
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0872567ff6a00840800000000000000
+      internalID: 5188330386862798859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_79
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1046
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d6544734a0fbe50800000000000000
+      internalID: 6827186844946754859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_80
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 969
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b7db4d393eab9c0800000000000000
+      internalID: -3910563102348969070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_81
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 968
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7032c2893d6e360800000000000000
+      internalID: 7198673704927299498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_82
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 968
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1681007099cab0b90800000000000000
+      internalID: -7274530999839483807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_83
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 968
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8b4bd42ac607f90800000000000000
+      internalID: -6957941979943225177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 946
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9f52fd4defadcb0800000000000000
+      internalID: -4838274659425846839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_85
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 946
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebbd29f15eb5a480800000000000000
+      internalID: -8888489030263653396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 944
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1444e24cb8a2d40800000000000000
+      internalID: 5560410364648374716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_87
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 946
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba190d6c4b00062e0800000000000000
+      internalID: -2134705446943944277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 946
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0760c3e7429234700800000000000000
+      internalID: 523307218418534000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_89
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 946
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9a5e97518e522c0800000000000000
+      internalID: -4456901077276186160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_90
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 944
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d3209b08d2e9450800000000000000
+      internalID: 6097360976389225755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 819
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d323577ecc5da6460800000000000000
+      internalID: 7235830827357385277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_92
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 816
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573a557a43d71bc30800000000000000
+      internalID: 4373414378252641141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_93
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 814
+        width: 68
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6081f365795d2b90800000000000000
+      internalID: -7265052263155924886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_94
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 809
+        width: 72
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a050fdba88df280800000000000000
+      internalID: -9007893407908689403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_95
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 809
+        width: 71
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0f9f01f561653e0800000000000000
+      internalID: -2065438781540273931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_96
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 809
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298f8bd701b9fc0a0800000000000000
+      internalID: -6859093212330919790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_97
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 811
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343b686a66183f900800000000000000
+      internalID: 717059043562533699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_98
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 814
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d9d8296d978f040800000000000000
+      internalID: 4681625775140347211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_99
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 815
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995e6d550b7c480e0800000000000000
+      internalID: -2268468752119568999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_100
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 818
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d910618ad08b11d50800000000000000
+      internalID: 6706343688925479325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_101
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 812
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba5b6ff7bef385e0800000000000000
+      internalID: -1908401750857262409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_102
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 812
+        width: 76
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90050302eb02ddb80800000000000000
+      internalID: -8368496531628601335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_103
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 812
+        width: 74
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfc56b8621c2ae90800000000000000
+      internalID: -7015832898198188111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 793
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae68224e76c701d10800000000000000
+      internalID: 2094310612378224362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_105
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289cf985786fe9be0800000000000000
+      internalID: -1468465367308318334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_106
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 793
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02534b4ca1eb20e40800000000000000
+      internalID: 5621264307090371872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_107
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 793
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ed5f491c1198ab0800000000000000
+      internalID: -5005449987720094152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_108
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bce7254f175ab70800000000000000
+      internalID: 8909652731992394631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_109
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c396898671835f20800000000000000
+      internalID: 3410211688963019712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_110
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 793
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d28fa9c31700ece0800000000000000
+      internalID: -1378093704405876015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_111
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 793
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d058b935a7d2a30800000000000000
+      internalID: 4192141327661862236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_112
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421df52b6e2ee9210800000000000000
+      internalID: 1341759219465965860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_113
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd4097b2d17c54c0800000000000000
+      internalID: -4297434794581537289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_114
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 793
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d49a4ab84884ca0800000000000000
+      internalID: -6032425965564899987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_115
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 791
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58e839770d0e5780800000000000000
+      internalID: -8692495905028773797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_116
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 793
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f66cd2d677b9460800000000000000
+      internalID: 7249519335986065290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 793
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221daf00550f1e050800000000000000
+      internalID: 5828203640673456418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_118
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2fff28ee08c7bd0800000000000000
+      internalID: -2631086320402828556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_119
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 791
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fb9d1d8ac0a0d40800000000000000
+      internalID: 5551263409902305035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_120
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 793
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a32dd0388bdcc10800000000000000
+      internalID: 2075517876299774495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_121
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 793
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc91111229690e360800000000000000
+      internalID: 7196917758902213069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_122
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88d83962bf19bde0800000000000000
+      internalID: -1316986564899186550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_123
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a5c9747ed2294c0800000000000000
+      internalID: -4282309824313796015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_124
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 793
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55933d803691b6b0800000000000000
+      internalID: -5282275752657316514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_125
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 793
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1f13bf8640b04b0800000000000000
+      internalID: -5473276073201241617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_126
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca34b722ec6f7d9a0800000000000000
+      internalID: -6208222196104739924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_127
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900ed7623244daf50800000000000000
+      internalID: 6894241522334425097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_128
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 793
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69a0f0619781af50800000000000000
+      internalID: 6890937963319961964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_129
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 793
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b1d84dcbdf3e340800000000000000
+      internalID: 4892032607716187033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_130
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 793
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb0dde85d18ce4c0800000000000000
+      internalID: -4256884793547093006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_131
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52360e41dbddce60800000000000000
+      internalID: 7984279406401434205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_132
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f1e8b371b1c3360800000000000000
+      internalID: 7150620094954872594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_133
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 793
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a0936d5b6441000800000000000000
+      internalID: 5707246331300407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_134
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 793
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f6ac389d4d5fcf0800000000000000
+      internalID: -219034976173527276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_135
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a1ddb1a76b37fe0800000000000000
+      internalID: -1192408840753309055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_136
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402e836a4e3ca2960800000000000000
+      internalID: 7578084709812986372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_137
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 793
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e378d534c262588b0800000000000000
+      internalID: -5150668627277674690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_138
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 791
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eddef4393aae280800000000000000
+      internalID: -9013211851132117493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_139
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 793
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14839c9fccf828c00800000000000000
+      internalID: 901440985954334785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_140
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 793
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73653053ccb92a90800000000000000
+      internalID: -7338126570773191812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_141
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b138d0b25e7c74120800000000000000
+      internalID: 2398105113681822491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_142
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 791
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76b7471b4e17f610800000000000000
+      internalID: 1654824695943902847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_143
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 689
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654ff424c3d509140800000000000000
+      internalID: 4724378522503607382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_144
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 689
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd0fd9fc6c06e0f0800000000000000
+      internalID: -1088168597775249972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_145
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 689
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2415c243372274030800000000000000
+      internalID: 3478787115358900546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_146
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 688
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71537c927b12c5f30800000000000000
+      internalID: 4565561192810493207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_147
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 690
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c687cb1467495ca80800000000000000
+      internalID: -8447182290433574804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_148
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 690
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110d7f1fb8dbad750800000000000000
+      internalID: 6330580634980306961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_149
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 690
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4b7babf609bffa0800000000000000
+      internalID: -5765856088369416993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_150
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 688
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bc82650f02269c0800000000000000
+      internalID: -3935546907758638243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_151
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 690
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac8cee4f6a815580800000000000000
+      internalID: -8840132382881444689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_152
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 690
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19343a9a2cb64dc10800000000000000
+      internalID: 2077403811938517905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_153
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 688
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d289ebeccd47c380800000000000000
+      internalID: -8951100191848955183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_154
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 688
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f099d6011aa5f00800000000000000
+      internalID: 1106373750403174259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_155
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 686
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca35529e095d3b30800000000000000
+      internalID: 4268665940936571597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_156
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 686
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b3236d6a4685ca0800000000000000
+      internalID: -6027957433514443980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_157
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 686
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d387d70e8e6be5890800000000000000
+      internalID: -7467330020818716611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_158
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 686
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62933376eea06fe80800000000000000
+      internalID: -8145310857003058906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e497b309305c4250800000000000000
+      internalID: 5930203015145821415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_160
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 672
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a290b692d31ba7b0800000000000000
+      internalID: -5212050348559002968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_161
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 672
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c10e9aa8e7922b0800000000000000
+      internalID: -5608812726892618604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_162
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 672
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33eac04924edba10800000000000000
+      internalID: 1926947081416270653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_163
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d754c782c16d0a970800000000000000
+      internalID: 8764240291289646461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_164
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 672
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5be66f85e210720800000000000000
+      internalID: 2810578602082350586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_165
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 672
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f276f835785863640800000000000000
+      internalID: 5059378047666317103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_166
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 672
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1432a1018881eaac0800000000000000
+      internalID: -3842106459435687103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_167
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 672
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258b4529ad5468aa0800000000000000
+      internalID: -6159158635322361774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_168
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 672
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb5454a376fa0390800000000000000
+      internalID: -7851192023828374564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_169
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 672
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a780f20efe768a0800000000000000
+      internalID: -6311812606595663264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_170
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 672
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9878c8065b0b9f8c0800000000000000
+      internalID: -3964943703867619447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_171
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 562
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9af2d971731c0a0800000000000000
+      internalID: -6863143782575003173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_172
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 562
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b83fb1552a478a0800000000000000
+      internalID: -6308238691614356604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_173
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 562
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38169c67750f69650800000000000000
+      internalID: 6239438592214131075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 562
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14daa7425e610b360800000000000000
+      internalID: 7183266579071282497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_175
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 562
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682e07b382c48eb70800000000000000
+      internalID: 8928469996941664902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_176
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 563
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f1b36baeaa26800800000000000000
+      internalID: 604233225077464964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_177
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 563
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3079dd1743651400800000000000000
+      internalID: 294250507757252671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 549
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9ee3e3524e179a0800000000000000
+      internalID: -6236953160322192972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_179
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 549
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3646443f1ceb5ad0800000000000000
+      internalID: -2712314731795429829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_180
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 549
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ae8e8369eed18d0800000000000000
+      internalID: -2873878658225214950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_181
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 549
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23327ddae609778f0800000000000000
+      internalID: -542806425037495502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 549
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a263fd3d951879020800000000000000
+      internalID: 2348487953503696426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_183
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 549
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cabbe5c4e5fdb8c0800000000000000
+      internalID: -3981756132603741495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_184
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 549
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2249124ff2e1a230800000000000000
+      internalID: 3648446759100301867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_185
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 549
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7308661d35b0be0800000000000000
+      internalID: -1510021091219720252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_186
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 549
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af28179f86f4f3650800000000000000
+      internalID: 6214773323074732794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_187
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 549
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ec6ae958be36aa0800000000000000
+      internalID: -6168828105442537903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_188
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 549
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461241a7cdbaf8ce0800000000000000
+      internalID: -1400711995659640476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_189
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 549
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc111bd2dc3536af0800000000000000
+      internalID: -404387400833232433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67185b33ff45191b0800000000000000
+      internalID: -5651642602312334986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_191
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 417
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd74cc4f8193fa2b0800000000000000
+      internalID: -5571171434684987427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_192
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 417
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35193ea9963624810800000000000000
+      internalID: 1748068910594494803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_193
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 412
+        width: 151
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277b9b953e3b50360800000000000000
+      internalID: 7135306973682710386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_194
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 411
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf4715c058a68140800000000000000
+      internalID: 4721646324202033074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_195
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 416
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7676ff1c2ee3e3860800000000000000
+      internalID: 7511510372138837863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_196
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 490
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48ae0aff9dffc7a0800000000000000
+      internalID: -6354581685659588529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_197
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 416
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbd85ae1418316e0800000000000000
+      internalID: -1868007300324074536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_198
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 416
+        width: 65
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bff3a5eed2661e80800000000000000
+      internalID: -8208264561361158218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_199
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 416
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad78c869cbe287b0800000000000000
+      internalID: -5223353367517430361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_200
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 435
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5eace984d64b10e0800000000000000
+      internalID: -2298165306181505443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_201
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 427
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbbeec08780bd6c0800000000000000
+      internalID: -4117688122594116656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_202
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 420
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eae337f0d8dc8310800000000000000
+      internalID: 1408739175472294633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_203
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 425
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655c0ac95c6325bd0800000000000000
+      internalID: -2642989808948820650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42c36ab090a70ee0800000000000000
+      internalID: -1294889824382893493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_205
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80af4e1037cd188d0800000000000000
+      internalID: -2845751103010309624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_206
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b52d9b49576d0490800000000000000
+      internalID: -7778447348180638287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_207
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 389
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8852c8b9159564b0800000000000000
+      internalID: -5447784236528281459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_208
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 389
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b17f8fe61dbbb20800000000000000
+      internalID: 3151342638829345549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_209
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 389
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a10cac0ce5e77b0800000000000000
+      internalID: -5224634335574877599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_210
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 389
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df640939b92ad2460800000000000000
+      internalID: 7218604566824109821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_211
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5bd02b1c9b82f60800000000000000
+      internalID: 8009856178845496784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_212
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 389
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b952dc3c307ce65e0800000000000000
+      internalID: -1914373972602051173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_213
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b801a5487e29f62f0800000000000000
+      internalID: -977401071060512629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_214
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8761ea93466086430800000000000000
+      internalID: 3776275315084367480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_215
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 389
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98873437ac4ca260800000000000000
+      internalID: 7110142192730474655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_216
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 389
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db2c9f3329569d30800000000000000
+      internalID: 4437832490746129365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_217
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 389
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a27792277ae6eb0800000000000000
+      internalID: -4724654850301285769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_218
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 389
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108efb730161557e0800000000000000
+      internalID: -1777490219017181183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_219
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09af524f166df9850800000000000000
+      internalID: 6386058512830954128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_220
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc65771b595750f10800000000000000
+      internalID: 2235322075847284429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_221
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 389
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fb5f703088b02a0800000000000000
+      internalID: -6770168068221583514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_222
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 389
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccf2109176ec2150800000000000000
+      internalID: 5849303391470288068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_223
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 389
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f75f8f33e35aee0800000000000000
+      internalID: -1250524928584351993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_224
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 389
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55a07e59dffe5190800000000000000
+      internalID: -7971652981341772452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_225
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eafaa5a78dc84a0800000000000000
+      internalID: -6589654134730805692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_226
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 389
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc99690d1629b4f0800000000000000
+      internalID: -812576351609840392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_227
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7e7d39ba38e4f60800000000000000
+      internalID: 8020492759336478688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_228
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a97ad3a08f55540800000000000000
+      internalID: 4996172084505188993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_229
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 389
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efeccb8724ed0fa0800000000000000
+      internalID: -5832755083874603035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_230
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 389
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1318c56e479a0e80800000000000000
+      internalID: -8211584607585823972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a60e794de8bf6b0800000000000000
+      internalID: -5261454695920014848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_232
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 284
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefa63baff9c2f690800000000000000
+      internalID: -7569765923730051094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_233
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 284
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ef5ad6766b84190800000000000000
+      internalID: -7977926184549351822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_234
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 284
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c4dd00d8d8db460800000000000000
+      internalID: 7259113811135515704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_235
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 284
+        width: 91
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c27b1848db90f700800000000000000
+      internalID: 572128505901052617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_236
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 284
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6723982735430b690800000000000000
+      internalID: -7588507839110761866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_237
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 284
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318eca1bf38c3f8e0800000000000000
+      internalID: -1660763661680187373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_238
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 283
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9e5947d9f402c60800000000000000
+      internalID: 7791314893035399607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_239
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 286
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf63b6ab0f9abee70800000000000000
+      internalID: 9145590319690757884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_240
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 289
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c661b8341c96aa0800000000000000
+      internalID: -6167185718866711425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_241
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 290
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc940eed12a5cc180800000000000000
+      internalID: -9093794446048212533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_242
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 290
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b983b71e4f7646f40800000000000000
+      internalID: 5720811728120002715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_243
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 288
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4399ac51b59a010800000000000000
+      internalID: 1200590924822426842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_244
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 278
+        width: 125
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9befec796c0b90ab0800000000000000
+      internalID: -5041303940867621191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_245
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 278
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335187ff8543323f0800000000000000
+      internalID: -926839541460363981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_246
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 278
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7653b1e9969a82710800000000000000
+      internalID: 1668769933030012263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_247
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 279
+        width: 95
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307f098b86fbf8c00800000000000000
+      internalID: 905152506618771203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_248
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 277
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d84b7619cdbcf00800000000000000
+      internalID: 1138245847909436724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_249
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43d07ec42713a3e0800000000000000
+      internalID: -2043764359046311091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_250
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 265
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db0e279074f468b0800000000000000
+      internalID: -5159730508649853999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_251
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 265
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2044de54239befb80800000000000000
+      internalID: -8359040232780381182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_252
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 265
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca8a55717f01de70800000000000000
+      internalID: 9138102098886036166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_253
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 265
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850fc81094543d800800000000000000
+      internalID: 635928152250314840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_254
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 265
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d43279c55634fc60800000000000000
+      internalID: 7850959792493442260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_255
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 265
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0c2aa5706124c10800000000000000
+      internalID: 2036214202366083253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_256
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 265
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473b7044df757f860800000000000000
+      internalID: 7563610844471735156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_257
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 265
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a109b06e621e590800000000000000
+      internalID: -7646787922820064768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_258
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 265
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf85927b9b6cc220800000000000000
+      internalID: 2507497407925030879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_259
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 265
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180f694dc3ead4560800000000000000
+      internalID: 7299682147325374593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_260
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 265
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e397388f6f2ec60800000000000000
+      internalID: 7846105048050908763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_261
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c81f30c7aa979e60800000000000000
+      internalID: 7969008110930958531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_262
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 125
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec6b2dcb2403c8a0800000000000000
+      internalID: -6286176068706800407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_263
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 125
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b00ebf22e3389b90800000000000000
+      internalID: -7234975754814095179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_264
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 125
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9bd97cbeba27440800000000000000
+      internalID: 4932193571078781436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_265
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 125
+        width: 120
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466aba8248ff8c1e0800000000000000
+      internalID: -2177209476750530972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_266
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 125
+        width: 114
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec7ae1e1ccb74820800000000000000
+      internalID: 2902496025768525035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_267
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 125
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cf4faeb8a0451f0800000000000000
+      internalID: -1057208416466568057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_268
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 148
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254fa243cae7906a0800000000000000
+      internalID: -6482510910548413358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_269
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 125
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079013290194979d0800000000000000
+      internalID: -2776107359776208528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_270
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 137
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5493f4c652ed9470800000000000000
+      internalID: 8403121342042575967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_271
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 125
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9663b9338eca80820800000000000000
+      internalID: 2884745674629002857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_272
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 125
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93b6185b93c44e40800000000000000
+      internalID: 5639847705339933594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_273
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 133
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2345ec80069cd0550800000000000000
+      internalID: 6128776082222896178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_274
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad77b9d9c5df1610800000000000000
+      internalID: 1594227856030268834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_275
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a15a5d7664989ed0800000000000000
+      internalID: -2407010832918883936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_276
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6a7d1273c01c400800000000000000
+      internalID: 342568477587384012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_277
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 112
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528fdd066fb160c90800000000000000
+      internalID: -7204039808931465179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_278
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94357565893ed3cc0800000000000000
+      internalID: -3729574672969804983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_279
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5a874ba353aa780800000000000000
+      internalID: -8671059606296287819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_280
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e97950bdf6e82c0800000000000000
+      internalID: -4427478397176275451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_281
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d2bc516663c2f40800000000000000
+      internalID: 5704994640051776882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_282
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 112
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec42e04c250c78e0800000000000000
+      internalID: -1694473672172876565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_283
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8296e5350f5faf770800000000000000
+      internalID: 8645492847230740776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_284
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf75fb9d2c943ed0800000000000000
+      internalID: -2435149778796576827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_285
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 112
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba8ffa0abef63010800000000000000
+      internalID: 1168401228351113913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_286
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 112
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d824fa2546cfde0800000000000000
+      internalID: -1298052286299075306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_287
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 52
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a97f934e8d94850800000000000000
+      internalID: 6361854423374207519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_288
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b42aa7b06e64970800000000000000
+      internalID: 8738925063935511376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_289
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 5
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96422bdd40961c20800000000000000
+      internalID: 3176885251219801756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_290
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4
+        width: 59
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea843530ea60f7170800000000000000
+      internalID: 8178262792777975982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_291
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 154
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f67208371636a20800000000000000
+      internalID: 3054392120986529565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_292
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1
+        width: 110
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c521344466023b3a0800000000000000
+      internalID: -6650936601092091300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_293
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 77
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d661acb2222e7de0800000000000000
+      internalID: -1333590907066161447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_294
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1
+        width: 112
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701c97e615b012b10800000000000000
+      internalID: 1954856157629235463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_295
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1c85eca79629670800000000000000
+      internalID: 8544007419244102095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_296
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb9ce1359f1e7690800000000000000
+      internalID: -7602604395306640385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanae_297
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 0
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7977d9ec810a10510800000000000000
+      internalID: 1513666978179282839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sanae_0: -6677307931863865003
+      sanae_1: 2234957510698030190
+      sanae_10: -7145962898008517885
+      sanae_100: 6706343688925479325
+      sanae_101: -1908401750857262409
+      sanae_102: -8368496531628601335
+      sanae_103: -7015832898198188111
+      sanae_104: 2094310612378224362
+      sanae_105: -1468465367308318334
+      sanae_106: 5621264307090371872
+      sanae_107: -5005449987720094152
+      sanae_108: 8909652731992394631
+      sanae_109: 3410211688963019712
+      sanae_11: -4736217647429573370
+      sanae_110: -1378093704405876015
+      sanae_111: 4192141327661862236
+      sanae_112: 1341759219465965860
+      sanae_113: -4297434794581537289
+      sanae_114: -6032425965564899987
+      sanae_115: -8692495905028773797
+      sanae_116: 7249519335986065290
+      sanae_117: 5828203640673456418
+      sanae_118: -2631086320402828556
+      sanae_119: 5551263409902305035
+      sanae_12: -5708191444138432066
+      sanae_120: 2075517876299774495
+      sanae_121: 7196917758902213069
+      sanae_122: -1316986564899186550
+      sanae_123: -4282309824313796015
+      sanae_124: -5282275752657316514
+      sanae_125: -5473276073201241617
+      sanae_126: -6208222196104739924
+      sanae_127: 6894241522334425097
+      sanae_128: 6890937963319961964
+      sanae_129: 4892032607716187033
+      sanae_13: -5855089078232227332
+      sanae_130: -4256884793547093006
+      sanae_131: 7984279406401434205
+      sanae_132: 7150620094954872594
+      sanae_133: 5707246331300407
+      sanae_134: -219034976173527276
+      sanae_135: -1192408840753309055
+      sanae_136: 7578084709812986372
+      sanae_137: -5150668627277674690
+      sanae_138: -9013211851132117493
+      sanae_139: 901440985954334785
+      sanae_14: -5161597027274204730
+      sanae_140: -7338126570773191812
+      sanae_141: 2398105113681822491
+      sanae_142: 1654824695943902847
+      sanae_143: 4724378522503607382
+      sanae_144: -1088168597775249972
+      sanae_145: 3478787115358900546
+      sanae_146: 4565561192810493207
+      sanae_147: -8447182290433574804
+      sanae_148: 6330580634980306961
+      sanae_149: -5765856088369416993
+      sanae_15: -3308577259719894027
+      sanae_150: -3935546907758638243
+      sanae_151: -8840132382881444689
+      sanae_152: 2077403811938517905
+      sanae_153: -8951100191848955183
+      sanae_154: 1106373750403174259
+      sanae_155: 4268665940936571597
+      sanae_156: -6027957433514443980
+      sanae_157: -7467330020818716611
+      sanae_158: -8145310857003058906
+      sanae_159: 5930203015145821415
+      sanae_16: 359361277889743179
+      sanae_160: -5212050348559002968
+      sanae_161: -5608812726892618604
+      sanae_162: 1926947081416270653
+      sanae_163: 8764240291289646461
+      sanae_164: 2810578602082350586
+      sanae_165: 5059378047666317103
+      sanae_166: -3842106459435687103
+      sanae_167: -6159158635322361774
+      sanae_168: -7851192023828374564
+      sanae_169: -6311812606595663264
+      sanae_17: -6264145648968341995
+      sanae_170: -3964943703867619447
+      sanae_171: -6863143782575003173
+      sanae_172: -6308238691614356604
+      sanae_173: 6239438592214131075
+      sanae_174: 7183266579071282497
+      sanae_175: 8928469996941664902
+      sanae_176: 604233225077464964
+      sanae_177: 294250507757252671
+      sanae_178: -6236953160322192972
+      sanae_179: -2712314731795429829
+      sanae_18: -4279537400350226695
+      sanae_180: -2873878658225214950
+      sanae_181: -542806425037495502
+      sanae_182: 2348487953503696426
+      sanae_183: -3981756132603741495
+      sanae_184: 3648446759100301867
+      sanae_185: -1510021091219720252
+      sanae_186: 6214773323074732794
+      sanae_187: -6168828105442537903
+      sanae_188: -1400711995659640476
+      sanae_189: -404387400833232433
+      sanae_19: -3280803215747066817
+      sanae_190: -5651642602312334986
+      sanae_191: -5571171434684987427
+      sanae_192: 1748068910594494803
+      sanae_193: 7135306973682710386
+      sanae_194: 4721646324202033074
+      sanae_195: 7511510372138837863
+      sanae_196: -6354581685659588529
+      sanae_197: -1868007300324074536
+      sanae_198: -8208264561361158218
+      sanae_199: -5223353367517430361
+      sanae_2: -1801978146773631615
+      sanae_20: -6688841696447192853
+      sanae_200: -2298165306181505443
+      sanae_201: -4117688122594116656
+      sanae_202: 1408739175472294633
+      sanae_203: -2642989808948820650
+      sanae_204: -1294889824382893493
+      sanae_205: -2845751103010309624
+      sanae_206: -7778447348180638287
+      sanae_207: -5447784236528281459
+      sanae_208: 3151342638829345549
+      sanae_209: -5224634335574877599
+      sanae_21: 847080881054153645
+      sanae_210: 7218604566824109821
+      sanae_211: 8009856178845496784
+      sanae_212: -1914373972602051173
+      sanae_213: -977401071060512629
+      sanae_214: 3776275315084367480
+      sanae_215: 7110142192730474655
+      sanae_216: 4437832490746129365
+      sanae_217: -4724654850301285769
+      sanae_218: -1777490219017181183
+      sanae_219: 6386058512830954128
+      sanae_22: -7277708515773025008
+      sanae_220: 2235322075847284429
+      sanae_221: -6770168068221583514
+      sanae_222: 5849303391470288068
+      sanae_223: -1250524928584351993
+      sanae_224: -7971652981341772452
+      sanae_225: -6589654134730805692
+      sanae_226: -812576351609840392
+      sanae_227: 8020492759336478688
+      sanae_228: 4996172084505188993
+      sanae_229: -5832755083874603035
+      sanae_23: 5069168056909689689
+      sanae_230: -8211584607585823972
+      sanae_231: -5261454695920014848
+      sanae_232: -7569765923730051094
+      sanae_233: -7977926184549351822
+      sanae_234: 7259113811135515704
+      sanae_235: 572128505901052617
+      sanae_236: -7588507839110761866
+      sanae_237: -1660763661680187373
+      sanae_238: 7791314893035399607
+      sanae_239: 9145590319690757884
+      sanae_24: -2583255376594495462
+      sanae_240: -6167185718866711425
+      sanae_241: -9093794446048212533
+      sanae_242: 5720811728120002715
+      sanae_243: 1200590924822426842
+      sanae_244: -5041303940867621191
+      sanae_245: -926839541460363981
+      sanae_246: 1668769933030012263
+      sanae_247: 905152506618771203
+      sanae_248: 1138245847909436724
+      sanae_249: -2043764359046311091
+      sanae_25: -1363328222508471052
+      sanae_250: -5159730508649853999
+      sanae_251: -8359040232780381182
+      sanae_252: 9138102098886036166
+      sanae_253: 635928152250314840
+      sanae_254: 7850959792493442260
+      sanae_255: 2036214202366083253
+      sanae_256: 7563610844471735156
+      sanae_257: -7646787922820064768
+      sanae_258: 2507497407925030879
+      sanae_259: 7299682147325374593
+      sanae_26: 5798746012144356632
+      sanae_260: 7846105048050908763
+      sanae_261: 7969008110930958531
+      sanae_262: -6286176068706800407
+      sanae_263: -7234975754814095179
+      sanae_264: 4932193571078781436
+      sanae_265: -2177209476750530972
+      sanae_266: 2902496025768525035
+      sanae_267: -1057208416466568057
+      sanae_268: -6482510910548413358
+      sanae_269: -2776107359776208528
+      sanae_27: 6195458318634253407
+      sanae_270: 8403121342042575967
+      sanae_271: 2884745674629002857
+      sanae_272: 5639847705339933594
+      sanae_273: 6128776082222896178
+      sanae_274: 1594227856030268834
+      sanae_275: -2407010832918883936
+      sanae_276: 342568477587384012
+      sanae_277: -7204039808931465179
+      sanae_278: -3729574672969804983
+      sanae_279: -8671059606296287819
+      sanae_28: -2829054761489756060
+      sanae_280: -4427478397176275451
+      sanae_281: 5704994640051776882
+      sanae_282: -1694473672172876565
+      sanae_283: 8645492847230740776
+      sanae_284: -2435149778796576827
+      sanae_285: 1168401228351113913
+      sanae_286: -1298052286299075306
+      sanae_287: 6361854423374207519
+      sanae_288: 8738925063935511376
+      sanae_289: 3176885251219801756
+      sanae_29: 6440034361395869489
+      sanae_290: 8178262792777975982
+      sanae_291: 3054392120986529565
+      sanae_292: -6650936601092091300
+      sanae_293: -1333590907066161447
+      sanae_294: 1954856157629235463
+      sanae_295: 8544007419244102095
+      sanae_296: -7602604395306640385
+      sanae_297: 1513666978179282839
+      sanae_3: -3422978679578018683
+      sanae_30: 248016624738634634
+      sanae_31: 2847287612532156602
+      sanae_32: -4473167977043026146
+      sanae_33: -743296909814794611
+      sanae_34: -1327040261049097820
+      sanae_35: 1090873260283335296
+      sanae_36: -5336101470725582223
+      sanae_37: 2116313316674152142
+      sanae_38: 1762499723795184199
+      sanae_39: 2560243587138172145
+      sanae_4: -1025360199473000474
+      sanae_40: 8882696913277350434
+      sanae_41: 3907621489365139804
+      sanae_42: 7159662987302672343
+      sanae_43: 7061778472995892363
+      sanae_44: 3209245577050507514
+      sanae_45: -8299308862202157715
+      sanae_46: 3602922067504087050
+      sanae_47: -278523746657547103
+      sanae_48: -5024815290645903490
+      sanae_49: 3023341441921310096
+      sanae_5: 5782941163641515634
+      sanae_50: -7128185760685869984
+      sanae_51: -7514981754088562398
+      sanae_52: -7916898869394619555
+      sanae_53: 87143026813603677
+      sanae_54: -6546979175382225775
+      sanae_55: -7091313117295144654
+      sanae_56: 3313269733377525906
+      sanae_57: 7106689275430515784
+      sanae_58: 4289493303357488385
+      sanae_59: 4696471363117003491
+      sanae_6: 41078090302456407
+      sanae_60: -8856192543634814786
+      sanae_61: -1949824713209348112
+      sanae_62: 2485348721475129962
+      sanae_63: 8776282660077445757
+      sanae_64: 8352110404310015114
+      sanae_65: -5870782750445398030
+      sanae_66: -6739542620927855684
+      sanae_67: -1268102356114440926
+      sanae_68: 9091690439399326561
+      sanae_69: -7655621682812229095
+      sanae_7: -6096157944013662202
+      sanae_70: -1588749217371342223
+      sanae_71: -1642848264434773599
+      sanae_72: -4894276742166807270
+      sanae_73: 1862004049551402166
+      sanae_74: 7499692868674577781
+      sanae_75: -3262964358080708214
+      sanae_76: -2156747410040291828
+      sanae_77: 943841537426090619
+      sanae_78: 5188330386862798859
+      sanae_79: 6827186844946754859
+      sanae_8: -5292182090557715530
+      sanae_80: -3910563102348969070
+      sanae_81: 7198673704927299498
+      sanae_82: -7274530999839483807
+      sanae_83: -6957941979943225177
+      sanae_84: -4838274659425846839
+      sanae_85: -8888489030263653396
+      sanae_86: 5560410364648374716
+      sanae_87: -2134705446943944277
+      sanae_88: 523307218418534000
+      sanae_89: -4456901077276186160
+      sanae_9: 3737455454358101111
+      sanae_90: 6097360976389225755
+      sanae_91: 7235830827357385277
+      sanae_92: 4373414378252641141
+      sanae_93: -7265052263155924886
+      sanae_94: -9007893407908689403
+      sanae_95: -2065438781540273931
+      sanae_96: -6859093212330919790
+      sanae_97: 717059043562533699
+      sanae_98: 4681625775140347211
+      sanae_99: -2268468752119568999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
