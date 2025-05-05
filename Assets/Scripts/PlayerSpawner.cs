@@ -44,7 +44,7 @@ public class PlayerSpawner : MonoBehaviour
         var animator = newPlayer.GetComponent<Animator>();
         if (animator != null)
         {
-            animator.SetInteger("PlayerNum", playerCount + 1);
+            animator.SetInteger("PlayerNum", playerCount);
         }
 
         playerCount++;
