@@ -242,7 +242,7 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: 78800b6a-a767-4d40-b944-46d7d4162fae
     m_ActionName: 'PlayerKeyboardAndController/ShieldDown[/DualShock4GamepadHID/rightShoulder,/Keyboard/numpad5,/Keyboard/x]'
-  m_NeverAutoSwitchControlSchemes: 1
+  m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: Keyboard&Mouse
   m_DefaultActionMap: PlayerKeyboardAndController
   m_SplitScreenIndex: -1
