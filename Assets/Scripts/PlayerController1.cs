@@ -86,11 +86,18 @@ public class PlayerController : MonoBehaviour
             if (FighterGameObject.gameObject == this.gameObject) continue; // Evitar pegarse con uno mismo
             Debug.Log("Hit Fighter");
             Rigidbody2D FighterRb = FighterGameObject.GetComponent<Rigidbody2D>();
+            Animator FighterAnim = FighterGameObject.GetComponent<Animator>();
 
             if (FighterRb != null)
             {
                 Vector2 direction = (FighterGameObject.transform.position - transform.position).normalized;
                 FighterRb.AddForce(direction * HitForce, ForceMode2D.Impulse);
+            }
+            if (FighterAnim != null)
+            {
+                FighterAnim.SetBool("IsHurt", true);
+                // Opcional: reiniciar el bool después de cierto tiempo
+                StartCoroutine(ResetHurt(FighterAnim, 0.3f));
             }
 
         }
@@ -99,6 +106,11 @@ public class PlayerController : MonoBehaviour
     private void ResetHit()
     {
         hasHit = false;
+    }
+    private System.Collections.IEnumerator ResetHurt(Animator anim, float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        anim.SetBool("IsHurt", false);
     }
 
     public void EndAttackAnim()
